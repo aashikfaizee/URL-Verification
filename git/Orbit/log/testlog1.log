@@ -1,0 +1,204 @@
+2024-03-07 12:14:58,291 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:15:00,502 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:15:02,629 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:15:02,649 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 12:18:33,809 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:18:35,947 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:18:38,076 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:18:38,097 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 12:23:00,496 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:23:02,642 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:23:04,773 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:23:04,793 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 12:26:25,297 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:26:27,437 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:26:29,536 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:26:29,556 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 12:28:43,865 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:28:46,016 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:28:48,154 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:28:48,178 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 12:33:54,581 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:33:56,782 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:33:58,934 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:37:57,929 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:38:00,135 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:38:02,272 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:40:04,887 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:40:07,103 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:40:09,240 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:50:01,243 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:50:03,452 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:50:05,582 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:50:08,154 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 12:52:03,016 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:52:05,251 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:52:07,404 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:52:10,033 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 12:52:10,056 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 12:59:41,143 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 12:59:43,288 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 12:59:45,407 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 12:59:47,561 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 12:59:47,583 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 13:00:23,464 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 13:00:25,661 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 13:00:27,803 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 13:00:29,982 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 13:00:30,059 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 13:26:50,315 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 13:26:52,452 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 13:26:54,603 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 13:27:22,670 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 13:27:24,779 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 13:27:26,865 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 14:30:48,991 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 14:30:51,109 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 14:30:53,205 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 14:45:46,340 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 14:45:48,450 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 14:45:50,540 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 14:47:54,176 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 14:47:56,279 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 14:47:58,368 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 14:55:20,563 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 14:55:22,668 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 14:55:24,760 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 14:55:24,818 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 14:55:24,829 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 15:01:25,791 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 15:01:27,916 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 15:01:30,011 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 15:05:20,147 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 15:05:22,268 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 15:05:24,359 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 15:05:24,403 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 15:05:24,414 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 15:08:15,428 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 15:08:17,530 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 15:08:19,621 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 15:16:54,172 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 15:16:56,283 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 15:16:58,370 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 15:32:56,893 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 15:32:59,017 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 15:33:01,109 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 15:33:01,188 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 15:42:55,917 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 15:42:58,034 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 15:43:00,117 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 15:54:02,180 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 15:54:04,285 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 15:54:06,379 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:01:44,506 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 16:01:46,633 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 16:01:48,732 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:28:04,366 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 16:28:06,467 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 16:28:08,546 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:29:24,305 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 16:29:26,382 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 16:29:28,455 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:32:37,762 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 16:32:39,860 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 16:32:41,926 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:35:37,422 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 16:35:39,529 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 16:35:41,610 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:42:17,384 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 16:42:19,503 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 16:42:21,576 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:42:23,809 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 16:42:23,825 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 16:43:29,966 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 16:43:32,058 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 16:43:34,128 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:43:36,119 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 16:43:36,129 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 16:47:31,494 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 16:47:33,594 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 16:47:35,659 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:47:37,964 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 16:47:37,979 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 16:49:03,598 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 16:49:05,694 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 16:49:07,776 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 16:49:10,271 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 16:49:10,282 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 17:17:31,906 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 17:17:34,001 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 17:17:36,073 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 17:17:38,498 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 17:17:38,507 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 17:21:27,137 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 17:21:29,227 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 17:21:31,301 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 17:21:33,832 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 17:24:53,570 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 17:24:55,665 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 17:24:57,735 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 17:25:00,157 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 17:43:11,884 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 17:43:13,978 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 17:43:16,041 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 17:45:13,909 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 17:45:15,999 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 17:45:18,067 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 17:47:03,562 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 17:47:05,651 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 17:47:07,713 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 17:47:09,847 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 17:47:09,857 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-07 17:59:54,740 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-07 17:59:56,835 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-07 17:59:58,900 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-07 18:00:01,018 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-07 18:00:01,353 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-08 10:32:09,346 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 10:32:11,434 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 10:32:13,523 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 10:32:16,409 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-08 10:32:16,750 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-08 10:52:03,495 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 10:52:05,622 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 10:52:07,731 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 10:53:49,695 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 10:53:51,811 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 10:53:53,914 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 10:53:56,458 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-08 10:57:05,081 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 10:57:07,182 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 10:57:09,261 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 10:57:24,161 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 10:57:26,257 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 10:57:28,352 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 10:57:30,749 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-08 10:57:44,429 [main] INFO testCase.Login_TC001 - Select all check box is enabled
+2024-03-08 10:57:58,021 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 10:58:00,117 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 10:58:02,205 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 10:58:04,439 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-08 11:00:34,084 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 11:00:36,186 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 11:00:38,258 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 11:00:40,670 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-08 11:00:42,414 [main] INFO testCase.Login_TC001 - Select all check box is enabled
+2024-03-08 11:00:42,427 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-08 11:01:42,494 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 11:01:44,594 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 11:01:46,680 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 11:02:23,889 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 11:02:25,991 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 11:02:28,099 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 11:02:30,675 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-08 11:02:32,552 [main] INFO testCase.Login_TC001 - Select all check box is enabled
+2024-03-08 11:02:32,570 [main] INFO testCase.Login_TC001 - testcase is pass
+2024-03-08 11:04:56,337 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 11:04:58,455 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 11:05:00,542 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 11:05:16,488 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-03-08 11:05:18,604 [main] INFO testCase.Login_TC001 - Password is entered
+2024-03-08 11:05:20,692 [main] INFO testCase.Login_TC001 - User is Successfully logged into the account
+2024-03-08 11:05:23,070 [main] INFO testCase.Login_TC001 - MouseHover Action to close the Tab
+2024-03-08 11:05:24,801 [main] INFO testCase.Login_TC001 - Select all check box is enabled
+2024-03-08 11:05:24,807 [main] INFO testCase.Login_TC001 - testcase is pass

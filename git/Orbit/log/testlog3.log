@@ -1,0 +1,36 @@
+2024-04-08 11:52:58,671 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-08 11:53:02,355 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-08 11:53:02,715 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-08 11:53:04,895 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-08 11:53:12,287 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-08 11:53:48,234 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-08 11:53:56,456 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-08 11:53:57,682 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-08 11:53:59,869 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-08 11:54:07,253 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-08 11:56:42,505 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-08 11:56:45,221 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-08 11:56:45,535 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-08 11:56:47,731 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-08 11:56:55,107 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-08 11:58:29,486 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-08 11:58:41,329 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-08 11:58:42,225 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-08 11:58:44,412 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-08 11:58:51,801 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-08 12:00:54,006 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-08 12:00:57,816 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-08 12:00:58,158 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-08 12:01:00,352 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-08 12:01:07,744 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-08 12:01:10,779 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-08 12:01:17,436 [main] INFO testCase.Login_TC001 - Create your account is viewed and edited in dashboard
+2024-04-08 12:01:23,979 [main] INFO testCase.Login_TC001 - Setup B2B config is viewed and edited in dashboard
+2024-04-08 12:01:34,189 [main] INFO testCase.Login_TC001 - Configure payment collection is viewed and edited in dashboard
+2024-04-08 12:01:42,769 [main] INFO testCase.Login_TC001 - choose plan is viewed and edited in dashboard
+2024-04-08 12:02:00,797 [main] INFO testCase.Login_TC001 - Design website is viewed and edited in dashboard
+2024-04-08 12:02:15,856 [main] INFO testCase.Login_TC001 - setup domain is viewed and edited in dashboard
+2024-04-08 12:02:32,408 [main] INFO testCase.Login_TC001 - Start Tax is viewed and edited in dashboard
+2024-04-08 12:03:07,646 [main] INFO testCase.Login_TC001 - Social media is viewed and edited in dashboard
+2024-04-08 12:03:34,744 [main] INFO testCase.Login_TC001 - StoreSEO is viewed and edited in dashboard
+2024-04-08 12:03:58,552 [main] INFO testCase.Login_TC001 - StoreSEO is viewed and edited in dashboard

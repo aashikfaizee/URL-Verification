@@ -480,8 +480,8 @@ public class My_Account extends BaseClass {
 		Thread.sleep(1000);
 
 		File f = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-		FileUtils.copyFile(f, new File("C:/Users/white/git/Orbit/capturesscreenshot03.png"));
-		log.info("Add role in the select drop down");
+		FileUtils.copyFile(f, new File("C:/Users/white/git/Orbit/capturesscreenshot18.png"));
+		log.info("Add role in the select drop down failed: check screenshot 18");
 
 		//screenshot copied from buffer is saved at the mentioned path.
 

@@ -4,12 +4,14 @@
   <parameter name="browser" value="chrome"/>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="testCase.Login_TC001">
+      <class name="testCase.Test_Run_1">
         <methods>
           <include name="openApplicationurl"/>
+          <include name="My_acc"/>
           <include name="website"/>
+          <include name="Setting"/>
         </methods>
-      </class> <!-- testCase.Login_TC001 -->
+      </class> <!-- testCase.Test_Run_1 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

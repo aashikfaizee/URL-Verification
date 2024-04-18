@@ -3,6 +3,7 @@ package page_Objects;
 import java.time.Duration;
 import java.util.List;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -12,11 +13,13 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class Enquiries extends BaseClass{
+public class Enquiries_TC004 {
 
 
 	WebDriver driver;
-	public  Enquiries(WebDriver ldriver) {
+	Logger log= Logger.getLogger(this.getClass());
+	
+	public  Enquiries_TC004(WebDriver ldriver) {
 
 		driver=ldriver;
 

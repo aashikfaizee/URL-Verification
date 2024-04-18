@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <test thread-count="5" name="Test">
-    <classes>
-      <class name="data_Driven.TestCase"/>
-    </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+	<parameter name="browser" value="chrome"></parameter>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="testCase.Login_TC2" />
+			<class name="testCase.Products_TC003" />
+			<!--<class name="testCase.Quotes_TC005" />
+			<class name="testCase.Orders_TC006" />
+			<class name="testCase.MarketingTools_TC007" />
+			<class name="testCase.Website_TC008" />
+			<class name="testCase.StoreApps_TC009" />
+			<class name="testCase.Settings_TC010" />
+			<class name="testCase.MyAccount_TC011" />-->
+
+			<!-- <class name="testCase.Login_TC001" />-->
+
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

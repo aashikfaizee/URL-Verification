@@ -1,8 +1,5 @@
 package page_Objects;
 
-
-
-
 import java.awt.AWTException;
 import java.awt.Robot;
 import java.awt.Toolkit;
@@ -13,40 +10,38 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.time.Duration;
 import java.util.List;
-import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.poi.ss.usermodel.WorkbookFactory;
+import org.apache.log4j.Logger;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
-import jdk.internal.org.jline.utils.Log;
+public class Product_TC003 {
 
 
-public class Home_page extends BaseClass{
 
 	WebDriver driver;
-	public Home_page(WebDriver ldriver) {
+
+	Logger log= Logger.getLogger(this.getClass());
+	
+
+	public Product_TC003(WebDriver ldriver) {
 
 		driver=ldriver;
 		PageFactory.initElements(ldriver, this);
+
 	}
 
 	@FindBy(xpath="/html/body/header/div/div/div/div[2]/div[2]/div[1]/ul/li[4]/a")	
@@ -254,99 +249,10 @@ public class Home_page extends BaseClass{
 	WebElement arrow_back;
 
 
-	public void ClickLogin() {
-
-		Login.click();
-		String parentWindowHandle = driver.getWindowHandle();
-
-
-		driver.findElement(By.xpath("/html/body/header/div/div/div/div[2]/div[2]/div[1]/ul/li[4]/a")).click();
-
-		Set<String> allWindowHandles = driver.getWindowHandles();
-		for (String handle:allWindowHandles) {
-			if(!handle.equals(parentWindowHandle)) 
-			{
-				driver.switchTo().window(handle);
-				driver.manage().window().maximize();
-				driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-
-
-			}
-		}
-	}
-
-	public void emailid(String email) {
-
-		emailid.sendKeys(email);
-
-	}
-
-	public void password(String password ) {
-
-
-		pwd.sendKeys(password);
-
-	}
-
-	public void submit() throws InterruptedException, IOException {
-
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-		submitbtn.click();
-		Thread.sleep(5000);
-
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-
-
-
-		String current_url="https://yourstore.io/login/session/signin";
-		String exp_url=driver.getCurrentUrl();
-
-
-		if(current_url.equals(exp_url)) {
-
-			File f = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			FileUtils.copyFile(f, new File("C:/Users/white/git/Orbit/capturesscreenshot04.png"));
-
-			//screenshot copied from buffer is saved at the mentioned path.
-			log.info("Login Failed Check the sign page check screenshot 4");
-			System.out.println("The Screenshot is captured for login.");
-
-		}
-
-		else {
-
-			log.info("User is succesfully logged in");
-
-		}
-
-		WebDriverWait wait= new WebDriverWait(driver, Duration.ofSeconds(30));
-		wait.until(ExpectedConditions.visibilityOf(ClickYesbtn));
-
-	}
-
-	public void ClosePopup() throws InterruptedException {
-
-
-		//		WebDriverWait wait =new WebDriverWait(driver, Duration.ofSeconds(10));
-		//		wait.until(ExpectedConditions.elementToBeClickable(ClickYesbtn)).click();
-		Set<String> allWindowHandles = driver.getWindowHandles();
-
-		// Print the number of open windows
-		System.out.println("Number of open windows: " + allWindowHandles.size());
-
-		JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
-		jsExecutor.executeScript("arguments[0].click();", ClickYesbtn);
-
-
-
-
-
-
-	}
-
-	public void ClickProduct() {
+	public void ClickProduct() throws InterruptedException {
 
 		ClickProduct.click();
+		Thread.sleep(1000);
 
 
 
@@ -405,7 +311,7 @@ public class Home_page extends BaseClass{
 		//clickimport.click();
 		//Thread.sleep(1000);
 
-		String img="Yourstore Bulk Upload Template - Without Variant.csv";
+		String img="bulk.csv";
 
 
 		StringSelection selection = new StringSelection(img);
@@ -426,7 +332,31 @@ public class Home_page extends BaseClass{
 
 
 		update.click();
-		Thread.sleep(2000);
+		Thread.sleep(3000);
+		
+
+		boolean isModalClosed = driver.findElements(By.xpath("(//button[@type='submit'])[1]")).isEmpty();
+
+		if (isModalClosed) {
+
+			//System.out.println("Social Logins updated successfully");
+
+			log.info("Bulk upload success ");
+
+
+
+		} else {
+
+			System.out.println("Not upated. Pls check Social Logins");
+
+			TakesScreenshot ts= (TakesScreenshot)driver;
+
+			File f= ts.getScreenshotAs(OutputType.FILE);
+
+			FileUtils.copyFile(f,new File("C:/Users/white/git/Orbit/capturesscreenshot03.png"));
+
+			log.info("Bulk upload not success: Check screenshot 3 ");
+		}
 
 		//		Dashboard.click();
 		//		Thread.sleep(2000);
@@ -479,225 +409,225 @@ public class Home_page extends BaseClass{
 
 	public void AddProduct() throws InterruptedException, AWTException, IOException {
 
+
+		Addproductbtn.click();
+		Thread.sleep(1000);
+
+
+		//JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
+		//jsExecutor.executeScript("arguments[0].click();", Addproductbtn);
+
+		//		WebDriverWait wait =new WebDriverWait(driver, Duration.ofSeconds(20));
+		//		wait.until(ExpectedConditions.elementToBeSelected(By.xpath("//*[text()='add']")));
 		//
-		//				Addproductbtn.click();
-		//				Thread.sleep(1000);
-		//				
-		//		
-		//				//JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
-		//				//jsExecutor.executeScript("arguments[0].click();", Addproductbtn);
-		//		
-		//				//		WebDriverWait wait =new WebDriverWait(driver, Duration.ofSeconds(20));
-		//				//		wait.until(ExpectedConditions.elementToBeSelected(By.xpath("//*[text()='add']")));
-		//				//
-		//		
-		//				AddImage.click();
-		//				Thread.sleep(1000);
-		//		
-		//				String img1="Ride.png";
-		//		
-		//		
-		//				StringSelection selection = new StringSelection(img1);
-		//				Toolkit.getDefaultToolkit().getSystemClipboard().setContents(selection, null);
-		//		
-		//				Robot robot =new Robot();
-		//		
-		//				robot.delay(2000);
-		//		
-		//		
-		//				robot.keyPress(KeyEvent.VK_CONTROL);
-		//				robot.keyPress(KeyEvent.VK_V);
-		//				robot.keyRelease(KeyEvent.VK_V);
-		//				robot.keyRelease(KeyEvent.VK_CONTROL);
-		//				robot.keyPress(KeyEvent.VK_ENTER);
-		//				robot.delay(90);
-		//				robot.keyRelease(KeyEvent.VK_ENTER);
-		//		
-		//		
-		//				img_save_btn.click();
-		//				Thread.sleep(1000);
-		//		
-		//		
-		//		
-		//				//AddImage.sendKeys("‪C:\\Users\\white\\OneDrive\\Pictures\\Ride.png");
-		//				//System.out.println("File is Uploaded Successfully");
-		//		
-		//				//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-		//		
-		//				productname.sendKeys("White Mastery");
-		//				Thread.sleep(2000);		
-		//		
-		//				Select  unit=new Select(unitdropdown);
-		//				unit.selectByValue("Mts");
-		//				Thread.sleep(2000);	
-		//		
-		//		
-		//		
-		//				Select limit= new Select(Stockype);
-		//				limit.selectByValue("unlim");
-		//				Thread.sleep(2000);	
-		//		
-		//				min_qty.sendKeys("100");
-		//				Thread.sleep(2000);	
-		//				sellingprice.sendKeys("50000");
-		//				Thread.sleep(2000);	
-		//		
-		//				JavascriptExecutor js= (JavascriptExecutor) driver;
-		//				js.executeScript("window.scrollBy(0,500)","");
-		//		
-		//				Desc.sendKeys("HELLO WORLD");
-		//				Thread.sleep(2000);	
-		//		
-		//				search.sendKeys("test");
-		//				Thread.sleep(2000);	
-		//		
-		//				testbox.click();
-		//				Thread.sleep(2000);	
-		//		
-		//		
-		//				JavascriptExecutor js1 = (JavascriptExecutor) driver;	
-		//				js1.executeScript("window.scrollBy(0,document.body.scrollHeight)", "");
-		//		
-		//				WebDriverWait wait1 =new WebDriverWait(driver, Duration.ofSeconds(20));
-		//				wait1.until(ExpectedConditions.elementToBeClickable(Addbtn)).click();
-		//		
-		//		
-		//				String exp_url="https://yourstore.io/login/product-sections/products/add/14";
-		//		
-		//				String act_url=driver.getCurrentUrl();
-		//				Thread.sleep(2000);	
-		//		
-		//				//SoftAssert softAssert = new SoftAssert();
-		//		
-		//				//softAssert.assertEquals(act_url, exp_url, "Add product failed","yes");
-		//		
-		//		
-		//				if(exp_url.equals(act_url)) {
-		//		
-		//					System.out.println("Product not added - Pls check screenshot 5");
-		//		
-		//					//screenshot copied from buffer is saved at the mentioned path.
-		//					//log.info("Login Failed Check the sign page");
-		//		
-		//					File f= ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-		//		
-		//					FileUtils.copyFile(f, new File("C:/Users/white/git/Orbit/capturesscreenshot05.png"));
-		//		
-		//					log.info("Add product Failed - Check screenshot 5");
-		//		
-		//		
-		//				}
-		//		
-		//				else {
-		//		
-		//					System.out.println("Product is addedd successfully");
-		//					log.info("Product is addedd successfully");
-		//		
-		//				}
-		//		
-		//				Thread.sleep(1000);
-		//		
-		//				driver.navigate().back();
-		//				
-		//		
-		//				catalogs.click();
-		//				Thread.sleep(1000);
-		//		
-		//				driver.findElement(By.xpath("//a[contains(text(),'Products')]")).click();
-		//		
-		//		
-		//				sort.click();
-		//				Thread.sleep(1000);
-		//		
-		//				JavascriptExecutor js2=(JavascriptExecutor)driver;
-		//		
-		//				js2.executeScript("window,scrollBy(0,500)", "");
-		//		
-		//		
-		//				List<WebElement> radio= driver.findElements(By.tagName("input"));
-		//		
-		//				for(WebElement radios:radio) {
-		//		
-		//		
-		//		
-		//					String id= radios.getAttribute("id");
-		//		
-		//		
-		//					if(!id.isEmpty()) {
-		//		
-		//						//System.out.println("ID:" + id);
-		//		
-		//						radios.click();
-		//						Thread.sleep(1000);
-		//		
-		//		
-		//						if(id.equals("created_desc")) {
-		//		
-		//							break;
-		//						}			
-		//		
-		//		
-		//		
-		//					}
-		//		
-		//		
-		//		
-		//				}
-		//		
-		//				Applysort.click();
-		//				Thread.sleep(1000);
-		//		
-		//		
-		//				JavascriptExecutor jsExecutor1 = (JavascriptExecutor) driver;
-		//				jsExecutor1.executeScript("arguments[0].click();", filter);
-		//				Thread.sleep(1000);
-		//		
-		//				List<WebElement> filterbtn= driver.findElements(By.name("product_type"));
-		//		
-		//				for(WebElement filterradiobtn:filterbtn) {
-		//		
-		//					String prod_type= filterradiobtn.getAttribute("id");
-		//		
-		//					System.out.println("Product_Type:" + prod_type	);
-		//		
-		//					filterradiobtn.click();
-		//					Thread.sleep(1000);
-		//		
-		//		
-		//				}
-		//		
-		//				Applyfilter.click();
-		//				Thread.sleep(1000);
-		//		
-		//				importprod.click();
-		//				Thread.sleep(1000);
-		//		
-		//				clickimportprod.click();
-		//		
-		//				String img2="bulk.csv";
-		//		
-		//		
-		//				StringSelection selection1 = new StringSelection(img2);
-		//				Toolkit.getDefaultToolkit().getSystemClipboard().setContents(selection1, null);
-		//		
-		//				//Robot robot =new Robot();
-		//		
-		//				robot.delay(2000);
-		//		
-		//		
-		//				robot.keyPress(KeyEvent.VK_CONTROL);
-		//				robot.keyPress(KeyEvent.VK_V);
-		//				robot.keyRelease(KeyEvent.VK_V);
-		//				robot.keyRelease(KeyEvent.VK_CONTROL);
-		//				robot.keyPress(KeyEvent.VK_ENTER);
-		//				robot.delay(90);
-		//				robot.keyRelease(KeyEvent.VK_ENTER);
-		//				Thread.sleep(1000);
-		//		
-		//		
-		//				JavascriptExecutor js3= (JavascriptExecutor)driver;
-		//				js3.executeScript("arguments[0].click();", updateimpprod);
-		//				Thread.sleep(1000);
+
+		AddImage.click();
+		Thread.sleep(1000);
+
+		String img1="Ride.jpg";
+
+
+		StringSelection selection = new StringSelection(img1);
+		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(selection, null);
+
+		Robot robot =new Robot();
+
+		robot.delay(2000);
+
+
+		robot.keyPress(KeyEvent.VK_CONTROL);
+		robot.keyPress(KeyEvent.VK_V);
+		robot.keyRelease(KeyEvent.VK_V);
+		robot.keyRelease(KeyEvent.VK_CONTROL);
+		robot.keyPress(KeyEvent.VK_ENTER);
+		robot.delay(90);
+		robot.keyRelease(KeyEvent.VK_ENTER);
+
+
+		img_save_btn.click();
+		Thread.sleep(1000);
+
+
+
+		//AddImage.sendKeys("‪C:\\Users\\white\\OneDrive\\Pictures\\Ride.png");
+		//System.out.println("File is Uploaded Successfully");
+
+		//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+
+		productname.sendKeys("White Mastery");
+		Thread.sleep(2000);		
+
+		Select  unit=new Select(unitdropdown);
+		unit.selectByValue("Mts");
+		Thread.sleep(2000);	
+
+
+
+		Select limit= new Select(Stockype);
+		limit.selectByValue("unlim");
+		Thread.sleep(2000);	
+
+		min_qty.sendKeys("100");
+		Thread.sleep(2000);	
+		sellingprice.sendKeys("50000");
+		Thread.sleep(2000);	
+
+		JavascriptExecutor js= (JavascriptExecutor) driver;
+		js.executeScript("window.scrollBy(0,500)","");
+
+		Desc.sendKeys("HELLO WORLD");
+		Thread.sleep(2000);	
+
+		search.sendKeys("test");
+		Thread.sleep(2000);	
+
+		testbox.click();
+		Thread.sleep(2000);	
+
+
+		JavascriptExecutor js1 = (JavascriptExecutor) driver;	
+		js1.executeScript("window.scrollBy(0,document.body.scrollHeight)", "");
+
+		WebDriverWait wait1 =new WebDriverWait(driver, Duration.ofSeconds(20));
+		wait1.until(ExpectedConditions.elementToBeClickable(Addbtn)).click();
+
+
+		String exp_url="https://yourstore.io/login/product-sections/products/add/14";
+
+		String act_url=driver.getCurrentUrl();
+		Thread.sleep(2000);	
+
+		//SoftAssert softAssert = new SoftAssert();
+
+		//softAssert.assertEquals(act_url, exp_url, "Add product failed","yes");
+
+
+		if(exp_url.equals(act_url)) {
+
+			System.out.println("Product not added - Pls check screenshot 5");
+
+			//screenshot copied from buffer is saved at the mentioned path.
+			//log.info("Login Failed Check the sign page");
+
+			File f= ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+
+			FileUtils.copyFile(f, new File("C:/Users/white/git/Orbit/capturesscreenshot05.png"));
+
+			log.info("Add product Failed - Check screenshot 5");
+
+
+		}
+
+		else {
+
+			System.out.println("Product is addedd successfully");
+			log.info("Product is addedd successfully");
+
+		}
+
+		Thread.sleep(1000);
+
+		driver.navigate().back();
+
+
+		catalogs.click();
+		Thread.sleep(1000);
+
+		driver.findElement(By.xpath("//a[contains(text(),'Products')]")).click();
+
+
+		sort.click();
+		Thread.sleep(1000);
+
+		JavascriptExecutor js2=(JavascriptExecutor)driver;
+
+		js2.executeScript("window,scrollBy(0,500)", "");
+
+
+		List<WebElement> radio= driver.findElements(By.tagName("input"));
+
+		for(WebElement radios:radio) {
+
+
+
+			String id= radios.getAttribute("id");
+
+
+			if(!id.isEmpty()) {
+
+				//System.out.println("ID:" + id);
+
+				radios.click();
+				Thread.sleep(1000);
+
+
+				if(id.equals("created_desc")) {
+
+					break;
+				}			
+
+
+
+			}
+
+
+
+		}
+
+		Applysort.click();
+		Thread.sleep(1000);
+
+
+		JavascriptExecutor jsExecutor1 = (JavascriptExecutor) driver;
+		jsExecutor1.executeScript("arguments[0].click();", filter);
+		Thread.sleep(1000);
+
+		List<WebElement> filterbtn= driver.findElements(By.name("product_type"));
+
+		for(WebElement filterradiobtn:filterbtn) {
+
+			String prod_type= filterradiobtn.getAttribute("id");
+
+			System.out.println("Product_Type:" + prod_type	);
+
+			filterradiobtn.click();
+			Thread.sleep(1000);
+
+
+		}
+
+		Applyfilter.click();
+		Thread.sleep(1000);
+
+		importprod.click();
+		Thread.sleep(1000);
+
+		clickimportprod.click();
+
+		String img2="bulk.csv";
+
+
+		StringSelection selection1 = new StringSelection(img2);
+		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(selection1, null);
+
+		//Robot robot =new Robot();
+
+		robot.delay(2000);
+
+
+		robot.keyPress(KeyEvent.VK_CONTROL);
+		robot.keyPress(KeyEvent.VK_V);
+		robot.keyRelease(KeyEvent.VK_V);
+		robot.keyRelease(KeyEvent.VK_CONTROL);
+		robot.keyPress(KeyEvent.VK_ENTER);
+		robot.delay(90);
+		robot.keyRelease(KeyEvent.VK_ENTER);
+		Thread.sleep(1000);
+
+
+		JavascriptExecutor js3= (JavascriptExecutor)driver;
+		js3.executeScript("arguments[0].click();", updateimpprod);
+		Thread.sleep(1000);
 
 
 
@@ -751,13 +681,13 @@ public class Home_page extends BaseClass{
 
 		try {
 			// Create a Robot instance
-			Robot robot = new Robot();
+			Robot robot1 = new Robot();
 
 			// Simulate pressing the "Alt + Left" keys combination to go back
-			robot.keyPress(KeyEvent.VK_ALT);
-			robot.keyPress(KeyEvent.VK_LEFT);
-			robot.keyRelease(KeyEvent.VK_LEFT);
-			robot.keyRelease(KeyEvent.VK_ALT);
+			robot1.keyPress(KeyEvent.VK_ALT);
+			robot1.keyPress(KeyEvent.VK_LEFT);
+			robot1.keyRelease(KeyEvent.VK_LEFT);
+			robot1.keyRelease(KeyEvent.VK_ALT);
 
 		} catch (AWTException e) {
 			e.printStackTrace();
@@ -766,16 +696,18 @@ public class Home_page extends BaseClass{
 
 		//driver.navigate().refresh();
 
-		String exp_url= "https://yourstore.io/login/product-extras/product-tags";
+		String exp_url1= "https://yourstore.io/login/product-extras/product-tags";
 
-		String act_url=driver.getCurrentUrl();
+		String act_url1=driver.getCurrentUrl();
 
-		if(!exp_url.equals(act_url)) {
+		if(!exp_url1.equals(act_url1)) {
+			Logger log= Logger.getLogger(this.getClass());
 
 			log.info("Product tag is successfully added");
 
 		}
 		else {
+			Logger log= Logger.getLogger(this.getClass());
 
 			log.info("Product tag addition is failed");
 		}
@@ -836,6 +768,7 @@ public class Home_page extends BaseClass{
 
 		driver.navigate().back();
 		Thread.sleep(1000);
+		Logger log= Logger.getLogger(this.getClass());
 
 		log.info("Size Chart Added");
 
@@ -928,17 +861,6 @@ public class Home_page extends BaseClass{
 
 
 
+
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

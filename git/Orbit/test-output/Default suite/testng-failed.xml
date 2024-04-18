@@ -6,7 +6,9 @@
       <class name="testCase.Login_TC001">
         <methods>
           <include name="openApplicationurl"/>
+          <include name="LoginTest"/>
           <include name="produt_test"/>
+          <include name="Setting"/>
         </methods>
       </class> <!-- testCase.Login_TC001 -->
     </classes>

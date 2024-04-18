@@ -657,3 +657,1859 @@ Discount button not working -check screenshot 1
 2024-04-12 10:03:46,353 [main] INFO testCase.Login_TC001 - Password is entered
 2024-04-12 10:03:53,459 [main] INFO testCase.Login_TC001 - User is succesfully logged in
 2024-04-12 10:03:55,554 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:02:09,998 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:02:13,674 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:02:14,008 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:02:16,100 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:02:23,242 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:02:25,321 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:02:59,225 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 8 verify Announcement bar
+2024-04-12 15:06:48,301 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:06:53,722 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:06:55,486 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:06:57,571 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:07:04,659 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:07:06,736 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:07:35,082 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 8 verify Announcement bar
+2024-04-12 15:16:41,563 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:16:47,100 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:16:49,979 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:16:52,069 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:16:59,303 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-12 15:17:07,221 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:20:56,632 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:21:00,185 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:21:00,582 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:21:02,676 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:21:09,761 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:21:11,834 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:22:17,075 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:22:21,282 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:22:22,128 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:22:24,213 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:22:31,303 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:22:33,387 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:40:35,189 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:40:39,031 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:40:39,649 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:40:41,735 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:40:48,836 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:40:50,919 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:41:14,849 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 8 verify Announcement bar
+2024-04-12 15:47:36,677 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:47:36,953 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:47:44,112 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:47:44,726 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:47:47,827 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:47:48,990 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:47:49,898 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:47:51,070 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:47:56,998 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:47:58,155 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:47:59,089 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:48:00,229 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:49:23,994 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:49:28,050 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:49:29,032 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:49:31,123 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:49:38,206 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:49:40,287 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:51:49,513 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:51:57,019 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:51:57,656 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:51:59,735 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:52:06,839 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:52:08,923 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 15:57:54,591 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 15:57:57,026 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 15:57:57,904 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 15:58:00,016 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 15:58:07,104 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 15:58:09,180 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 16:02:45,855 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:02:48,858 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 16:02:50,597 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 16:02:52,684 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 16:02:59,785 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 16:03:01,864 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 16:03:13,484 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 9 verify chat config
+2024-04-12 16:21:01,788 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:21:06,076 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 16:21:06,680 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 16:21:08,761 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 16:21:15,857 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 16:21:17,929 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 16:22:53,021 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:22:56,399 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 16:22:57,858 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 16:22:59,942 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 16:23:07,027 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 16:23:09,112 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 16:24:24,431 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:24:27,061 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 16:24:29,500 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 16:24:31,583 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 16:24:38,685 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 16:24:40,758 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 16:40:46,608 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:40:53,007 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 16:40:53,387 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 16:40:55,485 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 16:41:02,570 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 16:41:04,641 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 16:43:49,414 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:44:10,146 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:44:15,930 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 16:44:16,627 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 16:44:18,714 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 16:44:25,818 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 16:44:27,895 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 16:50:11,859 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:50:13,785 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 16:50:14,536 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 16:50:16,621 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 16:50:23,717 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 16:50:25,799 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 16:51:22,737 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:51:25,076 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 16:51:25,557 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 16:51:27,646 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 16:51:34,744 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 16:51:36,833 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 16:55:13,856 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 16:55:19,748 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 16:55:20,133 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 16:55:22,229 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 16:55:29,446 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-12 16:55:37,337 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 17:02:06,375 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 17:02:08,503 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 17:02:09,417 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 17:02:11,512 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 17:02:18,611 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 17:02:20,688 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 17:02:32,854 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-12 17:19:07,201 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 17:19:11,798 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 17:19:12,399 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 17:19:14,477 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 17:19:21,568 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 17:19:23,653 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 17:19:36,950 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-12 17:23:44,142 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 17:23:47,797 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 17:23:49,240 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 17:23:51,325 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 17:23:58,412 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 17:24:00,486 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 17:26:41,172 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 17:26:44,463 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 17:26:45,076 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 17:26:47,177 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 17:26:54,287 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 17:26:56,355 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 17:28:45,939 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 17:28:49,429 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 17:28:50,093 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 17:28:52,191 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 17:28:59,288 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 17:29:01,374 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 17:29:40,307 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 17:29:44,560 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 17:29:44,960 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 17:29:47,072 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 17:29:54,169 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 17:29:56,246 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 17:57:18,236 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 17:57:21,269 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 17:57:21,677 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 17:57:23,776 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 17:57:30,898 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 17:57:32,989 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 17:58:57,551 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 17:59:02,334 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 17:59:05,249 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 17:59:07,345 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 17:59:14,445 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 17:59:16,545 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-12 18:01:12,768 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-12 18:01:15,380 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-12 18:01:17,061 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-12 18:01:19,162 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-12 18:01:26,259 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-12 18:01:28,330 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 10:21:56,916 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 10:22:01,989 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 10:22:06,806 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 10:22:08,909 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 10:22:16,008 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 10:22:18,105 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 10:25:34,640 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 10:26:19,599 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 10:26:22,563 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 10:26:23,619 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 10:26:25,701 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 10:26:32,789 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 10:26:34,865 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 10:29:48,841 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 10:29:50,700 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 10:29:51,754 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 10:29:53,838 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 10:30:00,925 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 10:30:03,024 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 10:30:46,610 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-13 10:46:30,753 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 10:46:35,676 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 10:46:38,631 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 10:46:40,722 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 10:46:47,812 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 10:46:49,901 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 10:56:24,525 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 10:56:27,012 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 10:56:27,929 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 10:56:30,033 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 10:56:37,122 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 10:56:39,193 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 11:11:40,917 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 11:11:44,478 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 11:11:45,081 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 11:11:47,155 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 11:11:54,256 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 11:11:56,333 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 11:15:58,838 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 11:16:02,939 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 11:16:03,512 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 11:16:05,602 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 11:16:12,696 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 11:16:14,770 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 11:16:49,668 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 11:16:51,560 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 11:16:52,335 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 11:16:54,416 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 11:17:01,501 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 11:17:03,587 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 11:17:07,317 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-13 11:38:52,647 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 11:38:56,664 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 11:38:57,254 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 11:38:59,336 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 11:39:06,419 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 11:39:08,506 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 11:39:12,504 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 11 and  verify search key 
+2024-04-13 11:56:27,236 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 11:56:30,099 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 11:56:30,512 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 11:56:32,602 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 11:56:39,706 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 11:56:41,784 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 11:58:58,427 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 11:59:01,046 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 11:59:01,495 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 11:59:03,574 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 11:59:10,671 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 11:59:12,751 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 11:59:55,714 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 11:59:57,711 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 11:59:59,471 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:00:01,546 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:00:08,636 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:00:10,716 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:06:15,777 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:06:29,836 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:06:30,558 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:06:32,643 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:06:39,731 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:06:41,810 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:07:31,009 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:07:34,251 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:07:35,384 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:07:37,470 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:07:44,542 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:07:46,629 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:08:20,245 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:08:27,614 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:08:28,014 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:08:30,107 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:08:37,209 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:08:39,293 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:09:36,920 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:09:38,696 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:09:41,043 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:09:43,128 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:09:50,212 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:09:52,310 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:15:09,069 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:15:12,307 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:15:13,761 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:15:15,833 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:15:22,929 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:15:25,016 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:16:13,831 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:16:16,500 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:16:18,141 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:16:20,215 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:16:27,308 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:16:29,376 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:17:27,015 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:17:31,112 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:17:31,712 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:17:33,798 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:17:40,910 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:17:42,986 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:18:49,394 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:18:51,179 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:18:51,867 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:18:53,949 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:19:01,043 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:19:03,121 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:24:18,805 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:24:21,611 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:24:22,948 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:24:25,035 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:24:32,115 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:24:34,190 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:25:11,367 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:25:15,525 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:25:16,164 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:25:18,247 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:25:25,330 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:25:27,412 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:25:52,858 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:25:59,309 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:26:02,054 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:26:04,139 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:26:11,250 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:26:13,324 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:27:04,731 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:27:07,421 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:27:08,900 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:27:10,983 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:27:18,060 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:27:20,136 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:28:11,156 [main] INFO testCase.Login_TC001 -  search key  updated successfully
+2024-04-13 12:40:19,799 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:40:21,790 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:40:22,742 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:40:24,828 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:40:31,914 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:40:33,992 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:41:14,643 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:41:20,113 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:41:22,651 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:41:24,731 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:41:31,825 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:41:33,933 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:42:31,343 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:42:33,202 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:42:33,810 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:42:35,890 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:42:42,988 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:42:45,076 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:43:35,193 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:43:37,187 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:43:37,910 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:43:39,997 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:43:47,085 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:43:49,163 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 12:45:57,075 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 12:45:59,227 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 12:46:00,454 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 12:46:02,533 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 12:46:09,629 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 12:46:11,707 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 13:05:49,756 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 13:05:52,699 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 13:05:53,165 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 13:05:55,258 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 13:06:02,354 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 13:06:04,440 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 13:06:25,630 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 11 and  verify search key 
+2024-04-13 13:37:38,333 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 13:37:40,498 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 13:37:41,344 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 13:37:43,431 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 13:37:50,528 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 13:37:52,601 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 13:38:43,681 [main] INFO testCase.Login_TC001 -  Opening hours  updated successfully
+2024-04-13 13:51:26,915 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 13:51:29,025 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 13:51:30,107 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 13:51:32,187 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 13:51:39,281 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 13:51:41,357 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 13:52:32,443 [main] INFO testCase.Login_TC001 -  Opening hours  updated successfully
+2024-04-13 13:53:10,846 [main] INFO testCase.Login_TC001 -  Mail configuration submitted successfully
+2024-04-13 14:07:08,138 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 14:07:15,118 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 14:07:18,112 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 14:07:20,200 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 14:07:27,285 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 14:07:29,374 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 14:08:21,553 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 14:08:25,820 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 14:08:26,433 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 14:08:28,544 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 14:08:35,764 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-13 14:08:40,525 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 14:10:24,356 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 14:10:26,122 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 14:10:27,184 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 14:10:29,270 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 14:10:36,360 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 14:10:38,443 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 14:11:42,064 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 14:11:44,936 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 14:11:47,961 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 14:11:50,049 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 14:11:57,133 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 14:11:59,208 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 14:12:26,248 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 14:12:29,724 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 14:12:34,959 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 14:12:37,043 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 14:12:44,258 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-13 14:12:49,562 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 14:13:49,914 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 14:13:53,509 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 14:13:54,090 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 14:13:56,166 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 14:14:03,259 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 14:14:05,350 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 14:15:26,443 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-13 14:15:28,262 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-13 14:15:29,325 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-13 14:15:31,404 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-13 14:15:38,482 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-13 14:15:40,553 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-13 14:16:31,574 [main] INFO testCase.Login_TC001 -  Opening hours  updated successfully
+2024-04-13 14:17:10,022 [main] INFO testCase.Login_TC001 -  Mail configuration submitted successfully
+2024-04-13 14:18:00,965 [main] INFO testCase.Login_TC001 -  Store Management updated successfully 
+2024-04-15 10:30:01,736 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 10:30:05,075 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 10:30:06,164 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 10:30:08,272 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 10:30:15,377 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 10:30:17,482 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 10:30:42,140 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 10:30:44,276 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 10:30:46,911 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 10:30:49,037 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 10:30:56,151 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 10:30:58,239 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 10:32:00,645 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 10:32:02,576 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 10:32:03,639 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 10:32:05,752 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 10:32:12,868 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 10:32:14,953 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 10:33:06,176 [main] INFO testCase.Login_TC001 -  Opening hours  updated successfully
+2024-04-15 10:33:44,773 [main] INFO testCase.Login_TC001 -  Mail configuration submitted successfully
+2024-04-15 10:34:36,153 [main] INFO testCase.Login_TC001 -  Store Management updated successfully 
+2024-04-15 10:35:22,981 [main] INFO testCase.Login_TC001 - checkout setttings updated successfully 
+2024-04-15 10:40:29,695 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 10:40:33,829 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 10:40:37,351 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 10:40:39,463 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 10:40:46,576 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 10:40:48,671 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 10:41:22,072 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 10:41:24,411 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 10:41:24,868 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 10:41:26,992 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 10:41:34,110 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 10:41:36,203 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 10:42:27,549 [main] INFO testCase.Login_TC001 -  Opening hours  updated successfully
+2024-04-15 10:43:06,303 [main] INFO testCase.Login_TC001 -  Mail configuration submitted successfully
+2024-04-15 10:43:57,458 [main] INFO testCase.Login_TC001 -  Store Management updated successfully 
+2024-04-15 10:44:44,317 [main] INFO testCase.Login_TC001 - checkout setttings updated successfully 
+2024-04-15 10:45:31,254 [main] INFO testCase.Login_TC001 - Invoice setttings updated successfully 
+2024-04-15 11:26:42,563 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 11:26:45,455 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 11:26:45,889 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 11:26:48,035 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 11:26:55,163 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 11:26:57,251 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 11:27:27,695 [main] INFO testCase.Login_TC001 -  Opening hours  updated successfully
+2024-04-15 11:27:38,709 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 11:27:43,509 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 11:27:44,093 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 11:27:46,238 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 11:27:53,354 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 11:27:55,447 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 11:33:00,444 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 11:33:02,461 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 11:33:03,517 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 11:33:05,650 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 11:33:12,772 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 11:33:14,862 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 11:33:55,050 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 11:34:00,603 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 11:34:01,279 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 11:34:03,406 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 11:34:10,552 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 11:34:12,641 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 11:34:28,797 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 11:34:32,402 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 11:34:32,925 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 11:34:35,073 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 11:34:42,210 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 11:34:44,303 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 11:35:02,568 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 11:35:05,050 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 11:35:06,077 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 11:35:08,213 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 11:35:15,340 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 11:35:17,437 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:03:48,823 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:03:51,142 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:03:52,412 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:03:54,573 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:04:01,719 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:04:03,831 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:04:26,811 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:04:31,516 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:04:32,160 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:04:34,326 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:04:41,483 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:04:43,598 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:05:58,147 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:06:03,993 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:06:06,533 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:06:08,713 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:06:16,122 [main] INFO testCase.Login_TC001 - Login Failed Check the sign page check screenshot 4
+2024-04-15 12:06:18,818 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:08:33,495 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:08:36,715 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:08:38,234 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:08:40,441 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:08:47,583 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:08:49,682 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:09:49,218 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:09:51,409 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:09:52,556 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:09:54,745 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:10:01,901 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:10:04,008 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:15:07,261 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:15:09,810 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:15:11,184 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:15:13,373 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:15:20,499 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:15:22,602 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:18:55,434 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:18:57,353 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:18:58,545 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:19:00,743 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:19:07,883 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:19:10,002 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:24:53,802 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:24:57,018 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:25:00,565 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:25:02,702 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:25:09,842 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:25:11,957 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:26:09,608 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:26:11,609 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:26:13,516 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:26:15,750 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:26:22,905 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:26:25,016 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:27:22,653 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:27:25,048 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:27:26,153 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:27:28,383 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:27:35,543 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:27:37,659 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 12:28:27,757 [main] INFO testCase.Login_TC001 -  Opening hours  updated successfully
+2024-04-15 12:29:06,720 [main] INFO testCase.Login_TC001 -  Mail configuration submitted successfully
+2024-04-15 12:29:28,866 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 14 and  verify Store Management 
+2024-04-15 12:30:15,879 [main] INFO testCase.Login_TC001 - checkout setttings updated successfully 
+2024-04-15 12:51:47,902 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 12:51:52,013 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 12:51:58,081 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 12:52:00,243 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 12:52:07,401 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 12:52:09,556 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 14:42:43,346 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 14:42:48,628 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 14:42:51,563 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 14:42:53,643 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 14:43:00,748 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 14:43:02,813 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 14:43:42,048 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 14:43:44,351 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 14:43:44,899 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 14:43:46,982 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 14:43:54,063 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 14:43:56,140 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 14:50:48,301 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 14:50:50,753 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 14:50:53,619 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 14:50:55,706 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 14:51:02,805 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 14:51:04,931 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 14:54:06,276 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 14:54:11,178 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 14:54:12,996 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 14:54:15,077 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 14:54:22,177 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 14:54:24,271 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 15:18:08,865 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 15:18:13,051 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 15:18:16,660 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 15:18:17,067 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 15:18:19,154 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 15:18:26,242 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 15:18:28,319 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 15:19:13,429 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 15:19:15,626 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 15:19:16,247 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 15:19:18,317 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 15:19:25,412 [main] INFO testCase.Login_TC2 - User is succesfully logged in
+2024-04-15 15:19:27,488 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 15:19:31,850 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 15:21:20,522 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 15:21:25,346 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 15:21:27,255 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 15:21:29,335 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 15:21:36,425 [main] INFO testCase.Login_TC2 - User is succesfully logged in
+2024-04-15 15:21:38,500 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 15:21:40,732 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 15:21:43,778 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 15:21:44,174 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 15:21:46,257 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 15:21:53,359 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 15:21:55,416 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 15:22:45,114 [main] INFO testCase.Login_TC001 -  Opening hours  updated successfully
+2024-04-15 15:23:23,557 [main] INFO testCase.Login_TC001 -  Mail configuration submitted successfully
+2024-04-15 15:24:14,362 [main] INFO testCase.Login_TC001 -  Store Management updated successfully 
+2024-04-15 15:24:31,380 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 15 and  verify checkout settings
+2024-04-15 15:25:14,422 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 16 and  verify invoice settingd
+2024-04-15 15:28:29,504 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 15:28:32,958 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 15:28:34,448 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 15:28:36,586 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 15:28:43,790 [main] INFO testCase.Login_TC2 - Login Failed Check the sign page check screenshot 4
+2024-04-15 15:29:44,836 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 15:29:47,696 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 15:29:48,154 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 15:29:50,236 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 15:29:57,322 [main] INFO testCase.Login_TC2 - User is succesfully logged in
+2024-04-15 15:29:59,398 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 15:34:32,919 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 15:34:35,245 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 15:34:35,638 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 15:34:37,721 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 15:34:44,815 [main] INFO testCase.Login_TC2 - User is succesfully logged in
+2024-04-15 15:34:46,894 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 15:37:12,976 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 15:37:26,127 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 15:37:26,519 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 15:37:28,608 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 15:37:35,712 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 15:37:37,783 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 15:37:43,447 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 15:37:49,759 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 15:37:59,406 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 15:38:06,551 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 15:44:21,283 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 15:44:23,437 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 15:44:24,925 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 15:44:26,998 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 15:44:34,078 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 15:44:36,149 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 15:44:41,798 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 15:44:47,573 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 15:44:56,525 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 15:45:03,640 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 15:46:03,796 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 15:46:05,994 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 15:46:06,767 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 15:46:08,859 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 15:46:15,955 [main] INFO testCase.Login_TC2 - User is succesfully logged in
+2024-04-15 15:46:18,029 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 15:46:20,823 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 15:46:22,803 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 15:46:23,579 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 15:46:25,659 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 15:46:32,744 [main] INFO testCase.Login_TC001 - User is succesfully logged in
+2024-04-15 15:46:34,795 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 15:46:40,448 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 15:46:46,210 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 15:46:55,187 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 15:47:02,340 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 16:02:05,186 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:02:10,854 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:02:11,442 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:02:13,533 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:02:20,627 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:02:22,703 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:02:25,503 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 16:02:27,405 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 16:02:28,147 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 16:02:30,233 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 16:02:37,308 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:02:39,371 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 16:02:45,009 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 16:02:50,775 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 16:02:59,702 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 16:03:06,879 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 16:17:07,263 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:17:10,166 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:17:10,556 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:17:12,638 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:17:19,725 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:17:21,804 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:17:24,478 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 16:17:26,236 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 16:17:26,904 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 16:17:28,982 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 16:17:36,068 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:17:38,123 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 16:17:44,276 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 16:17:50,165 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 16:17:59,324 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 16:18:07,470 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 16:20:48,248 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:20:53,091 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:20:55,398 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:20:57,483 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:21:04,585 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:21:06,658 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:21:09,025 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 16:21:11,766 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 16:21:12,161 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 16:21:14,250 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 16:21:21,343 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:21:23,415 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 16:21:29,063 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 16:21:34,800 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 16:21:43,757 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 16:21:50,870 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 16:37:02,571 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:37:04,448 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:37:05,246 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:37:07,335 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:37:14,424 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:37:16,510 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:39:05,234 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:39:07,666 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:39:08,041 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:39:10,119 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:39:17,221 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:39:19,296 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:41:17,653 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:41:20,384 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:41:21,011 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:41:23,101 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:41:30,190 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:41:32,273 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:43:18,820 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:43:23,071 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:43:23,660 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:43:25,741 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:43:32,845 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:43:34,927 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:45:33,357 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:45:35,284 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:45:36,668 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:45:38,749 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:45:45,855 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:45:47,930 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:46:55,186 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:46:59,690 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:47:00,281 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:47:02,370 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:47:09,472 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:47:11,546 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:52:08,435 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:52:13,664 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:52:16,782 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:52:18,861 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:52:25,966 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:52:28,034 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:53:54,136 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:53:57,257 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:54:00,008 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:54:02,092 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:54:09,180 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:54:11,264 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:56:25,937 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:56:31,254 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:56:33,861 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:56:35,938 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:56:43,041 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:56:45,118 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:57:16,461 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:57:19,138 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:57:20,591 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:57:22,657 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:57:29,740 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:57:31,819 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 16:59:20,845 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 16:59:24,293 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 16:59:25,199 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 16:59:27,284 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 16:59:34,370 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 16:59:36,440 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 17:02:03,981 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 17:02:06,221 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 17:02:08,941 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 17:02:11,019 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 17:02:18,087 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:02:20,165 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 17:02:24,690 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 17:02:30,565 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 17:02:39,530 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 17:02:46,661 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 17:03:27,214 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:03:30,797 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 17:03:31,386 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 17:03:33,474 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 17:03:40,563 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:03:42,630 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 17:08:38,160 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 17:08:40,455 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 17:08:40,922 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 17:08:43,005 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 17:08:50,107 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:08:52,195 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 17:08:56,742 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 17:09:02,492 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 17:09:11,443 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 17:09:18,552 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 17:09:23,247 [main] INFO page_Objects.Dashboard2 - Design website is viewed and edited in dashboard
+2024-04-15 17:09:37,807 [main] INFO page_Objects.Dashboard2 - setup domain is viewed and edited in dashboard
+2024-04-15 17:09:53,584 [main] INFO page_Objects.Dashboard2 - Start Tax is viewed and edited in dashboard
+2024-04-15 17:10:15,254 [main] INFO page_Objects.Dashboard2 - Social media is viewed and edited in dashboard
+2024-04-15 17:10:40,929 [main] INFO page_Objects.Dashboard2 - StoreSEO is viewed and edited in dashboard
+2024-04-15 17:10:45,075 [main] INFO page_Objects.Dashboard2 - Discount button not working -check screenshot 1
+2024-04-15 17:11:03,798 [main] INFO page_Objects.Dashboard2 - StoreSEO is viewed and edited in dashboard
+2024-04-15 17:11:13,395 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:11:16,362 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 17:11:17,459 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 17:11:19,525 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 17:11:26,604 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:11:28,655 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 17:12:53,027 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 17:12:56,953 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 17:12:57,536 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 17:12:59,630 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 17:13:06,725 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:13:08,800 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 17:13:16,043 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 17:13:24,740 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 17:13:34,660 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 17:13:39,258 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:14:18,007 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 17:14:21,250 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 17:14:25,537 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 17:14:27,611 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 17:14:34,710 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:14:36,788 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 17:14:41,879 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 17:14:48,439 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 17:14:57,813 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 17:15:05,523 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 17:15:07,826 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:16:32,103 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 17:16:34,648 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 17:16:35,048 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 17:16:37,119 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 17:16:44,218 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:16:46,306 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 17:16:51,493 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 17:16:57,575 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 17:17:05,587 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:17:31,528 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 17:17:34,773 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 17:17:37,004 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 17:17:39,090 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 17:17:46,169 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:17:48,245 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 17:17:55,652 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 17:18:04,439 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 17:18:49,650 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 17:18:52,143 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 17:18:52,519 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 17:18:54,603 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 17:19:01,687 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:19:03,767 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 17:19:09,167 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 17:19:16,075 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 17:19:50,107 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 17:19:53,138 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 17:19:53,530 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 17:19:55,604 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 17:20:02,702 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:20:04,784 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 17:20:09,397 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 17:20:15,233 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 17:21:33,361 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:21:36,347 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 17:21:36,721 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 17:21:38,808 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 17:21:45,893 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:21:47,989 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 17:22:52,137 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:22:54,681 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 17:22:56,176 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 17:22:58,249 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 17:23:05,341 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:23:07,425 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 17:25:23,706 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:25:26,177 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 17:25:26,815 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 17:25:28,899 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 17:25:36,002 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:25:38,090 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 17:28:58,734 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:29:02,417 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 17:29:04,299 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 17:29:06,384 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 17:29:13,494 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:29:15,568 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 17:31:13,305 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:31:23,174 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 17:31:24,882 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 17:31:26,967 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 17:31:34,056 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:31:36,133 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 17:38:29,459 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-15 17:38:32,363 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-15 17:38:32,999 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-15 17:38:35,083 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-15 17:38:42,176 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:38:44,248 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-15 17:38:49,030 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-15 17:38:55,351 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-15 17:39:04,887 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-15 17:39:12,763 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-15 17:39:18,293 [main] INFO page_Objects.Dashboard2 - Design website is viewed and edited in dashboard
+2024-04-15 17:39:32,865 [main] INFO page_Objects.Dashboard2 - setup domain is viewed and edited in dashboard
+2024-04-15 17:39:48,626 [main] INFO page_Objects.Dashboard2 - Start Tax is viewed and edited in dashboard
+2024-04-15 17:40:12,376 [main] INFO page_Objects.Dashboard2 - Social media is viewed and edited in dashboard
+2024-04-15 17:40:38,050 [main] INFO page_Objects.Dashboard2 - StoreSEO is viewed and edited in dashboard
+2024-04-15 17:40:42,203 [main] INFO page_Objects.Dashboard2 - Discount button not working -check screenshot 1
+2024-04-15 17:41:00,915 [main] INFO page_Objects.Dashboard2 - StoreSEO is viewed and edited in dashboard
+2024-04-15 17:51:07,653 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:51:09,781 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 17:51:11,865 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 17:51:13,949 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 17:51:21,034 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:51:23,105 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-15 17:59:29,490 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-15 17:59:32,260 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-15 17:59:35,660 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-15 17:59:37,740 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-15 17:59:44,837 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-15 17:59:46,927 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 09:51:43,391 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 09:51:47,432 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 09:51:51,552 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 09:51:53,670 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 09:52:00,782 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 09:52:02,879 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 10:15:56,867 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 10:16:00,043 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 10:16:00,854 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 10:16:02,975 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 10:16:10,092 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 10:16:12,184 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 10:16:14,900 [main] INFO testCase.Products_TC003 - URL is Entered in Chrome
+2024-04-16 10:29:18,084 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:07:16,125 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:07:19,626 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 11:07:20,833 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 11:07:22,946 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 11:07:30,058 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 11:07:32,150 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 11:13:30,103 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:13:32,206 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 11:13:32,921 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 11:13:35,042 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 11:13:42,168 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 11:13:44,267 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 11:15:23,570 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:35:02,890 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:35:06,805 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 11:35:10,523 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 11:35:12,658 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 11:35:19,775 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 11:35:21,869 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 11:46:45,124 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:46:47,882 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 11:46:48,300 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 11:46:50,431 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 11:46:57,577 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 11:46:59,675 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 11:49:59,040 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:50:03,995 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 11:50:04,402 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 11:50:06,547 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 11:50:13,667 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 11:50:15,753 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 11:52:03,649 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:52:10,494 [main] INFO testCase.Products_TC003 - URL is Entered in Chrome
+2024-04-16 11:53:00,328 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:53:04,088 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 11:53:05,760 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 11:53:07,884 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 11:53:15,013 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 11:53:17,121 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 11:53:19,930 [main] INFO testCase.Products_TC003 - URL is Entered in Chrome
+2024-04-16 11:54:13,297 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:54:15,728 [main] INFO testCase.Products_TC003 - URL is Entered in Chrome
+2024-04-16 11:54:49,565 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:54:51,937 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 11:54:52,374 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 11:54:54,494 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 11:55:01,635 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 11:55:06,043 [main] INFO testCase.Products_TC003 - URL is Entered in Chrome
+2024-04-16 11:57:53,805 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 11:58:07,686 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 11:58:12,531 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 11:58:14,633 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 11:58:21,751 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 11:58:23,833 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 12:03:58,861 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 12:04:00,791 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 12:04:01,523 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 12:04:03,654 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 12:04:10,791 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 12:04:12,883 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 12:04:18,813 [main] INFO testCase.Products_TC003 - URL is Entered in Chrome
+2024-04-16 12:05:18,087 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 12:05:19,856 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 12:05:20,611 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 12:05:22,734 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 12:05:29,860 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 12:05:31,954 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 12:11:29,951 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 12:11:34,477 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-16 12:11:48,705 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-16 12:11:50,833 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-16 12:11:57,979 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 12:12:00,091 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-16 12:12:07,178 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-16 12:12:14,999 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-16 12:14:48,146 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 12:14:50,714 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-16 12:14:52,775 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-16 12:14:54,899 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-16 12:15:02,018 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 12:15:04,103 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-16 12:15:09,588 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-16 12:15:15,934 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-16 12:15:25,156 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-16 12:15:33,241 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-16 12:15:39,266 [main] INFO page_Objects.Dashboard2 - Design website is viewed and edited in dashboard
+2024-04-16 12:15:54,083 [main] INFO page_Objects.Dashboard2 - setup domain is viewed and edited in dashboard
+2024-04-16 12:16:10,132 [main] INFO page_Objects.Dashboard2 - Start Tax is viewed and edited in dashboard
+2024-04-16 12:16:34,043 [main] INFO page_Objects.Dashboard2 - Social media is viewed and edited in dashboard
+2024-04-16 12:17:00,094 [main] INFO page_Objects.Dashboard2 - StoreSEO is viewed and edited in dashboard
+2024-04-16 12:17:04,323 [main] INFO page_Objects.Dashboard2 - Discount button not working -check screenshot 1
+2024-04-16 12:17:23,257 [main] INFO page_Objects.Dashboard2 - StoreSEO is viewed and edited in dashboard
+2024-04-16 12:27:24,039 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 12:27:26,014 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 12:27:27,388 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 12:27:29,510 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 12:27:36,644 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 12:27:38,737 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 12:29:34,569 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 12:29:39,240 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 12:29:39,640 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 12:29:41,775 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 12:29:48,903 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 12:29:51,001 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 12:32:05,914 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 12:32:08,279 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-16 12:32:09,851 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-16 12:32:11,979 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-16 12:32:19,120 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 12:32:21,212 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-16 12:32:25,894 [main] INFO page_Objects.Dashboard2 - Create your account is viewed and edited in dashboard
+2024-04-16 12:32:31,724 [main] INFO page_Objects.Dashboard2 - Setup B2B config is viewed and edited in dashboard
+2024-04-16 12:32:40,838 [main] INFO page_Objects.Dashboard2 - Configure payment collection is viewed and edited in dashboard
+2024-04-16 12:32:48,014 [main] INFO page_Objects.Dashboard2 - choose plan is viewed and edited in dashboard
+2024-04-16 12:32:52,694 [main] INFO page_Objects.Dashboard2 - Design website is viewed and edited in dashboard
+2024-04-16 12:33:07,403 [main] INFO page_Objects.Dashboard2 - setup domain is viewed and edited in dashboard
+2024-04-16 12:33:23,325 [main] INFO page_Objects.Dashboard2 - Start Tax is viewed and edited in dashboard
+2024-04-16 12:54:14,303 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 12:54:16,620 [main] INFO testCase.Login_TC001 - Login link is clicked
+2024-04-16 12:54:17,022 [main] INFO testCase.Login_TC001 - Email-id is entered
+2024-04-16 12:54:19,153 [main] INFO testCase.Login_TC001 - Password is entered
+2024-04-16 12:54:26,284 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 12:54:28,370 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-16 12:54:41,547 [main] INFO page_Objects.Product_TC003 - Product tag is successfully added
+2024-04-16 12:55:01,674 [main] INFO page_Objects.Product_TC003 - Size Chart Added
+2024-04-16 12:55:09,314 [main] INFO page_Objects.Product_TC003 - FAQ Added
+2024-04-16 12:55:15,453 [main] INFO page_Objects.Product_TC003 - Image Tags addded
+2024-04-16 12:55:22,679 [main] INFO page_Objects.Product_TC003 - Product taxonomy added
+2024-04-16 12:55:28,428 [main] INFO page_Objects.Product_TC003 - Image uploader added
+2024-04-16 13:01:22,372 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 13:01:22,962 [main] INFO page_Objects.Home_page - Login link is clicked
+2024-04-16 13:01:26,215 [main] INFO page_Objects.Home_page - Email-id is entered
+2024-04-16 13:01:28,347 [main] INFO page_Objects.Home_page - Password is entered
+2024-04-16 13:01:35,483 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 13:01:37,572 [main] INFO testCase.Login_TC001 - Pop up closed
+2024-04-16 13:01:50,859 [main] INFO page_Objects.Product_TC003 - Product tag is successfully added
+2024-04-16 13:02:10,784 [main] INFO page_Objects.Product_TC003 - Size Chart Added
+2024-04-16 13:02:18,298 [main] INFO page_Objects.Product_TC003 - FAQ Added
+2024-04-16 13:02:24,515 [main] INFO page_Objects.Product_TC003 - Image Tags addded
+2024-04-16 13:02:31,217 [main] INFO page_Objects.Product_TC003 - Product taxonomy added
+2024-04-16 13:02:36,827 [main] INFO page_Objects.Product_TC003 - Image uploader added
+2024-04-16 13:06:40,322 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-16 13:06:41,028 [main] INFO page_Objects.Home_page - Login link is clicked
+2024-04-16 13:06:48,164 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-16 13:06:48,936 [main] INFO page_Objects.Home_page - Email-id is entered
+2024-04-16 13:06:48,936 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-16 13:06:51,065 [main] INFO page_Objects.Home_page - Password is entered
+2024-04-16 13:06:51,066 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-16 13:06:58,191 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 13:07:00,281 [main] INFO page_Objects.Home_page - Pop up closed
+2024-04-16 13:07:00,282 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-16 13:08:01,628 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 13:08:02,260 [main] INFO page_Objects.Home_page - Login link is clicked
+2024-04-16 13:08:07,702 [main] INFO page_Objects.Home_page - Email-id is entered
+2024-04-16 13:08:09,830 [main] INFO page_Objects.Home_page - Password is entered
+2024-04-16 13:08:16,956 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 13:08:19,052 [main] INFO page_Objects.Home_page - Pop up closed
+2024-04-16 13:08:31,757 [main] INFO page_Objects.Product_TC003 - Product tag is successfully added
+2024-04-16 13:08:51,159 [main] INFO page_Objects.Product_TC003 - Size Chart Added
+2024-04-16 13:08:58,163 [main] INFO page_Objects.Product_TC003 - FAQ Added
+2024-04-16 13:09:03,784 [main] INFO page_Objects.Product_TC003 - Image Tags addded
+2024-04-16 13:09:10,637 [main] INFO page_Objects.Product_TC003 - Product taxonomy added
+2024-04-16 13:09:16,743 [main] INFO page_Objects.Product_TC003 - Image uploader added
+2024-04-16 13:49:59,568 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 13:50:00,677 [main] INFO page_Objects.Home_page - Login link is clicked
+2024-04-16 13:50:03,041 [main] INFO page_Objects.Home_page - Email-id is entered
+2024-04-16 13:50:05,181 [main] INFO page_Objects.Home_page - Password is entered
+2024-04-16 13:50:12,293 [main] INFO page_Objects.Home_page - User is succesfully logged in
+2024-04-16 13:50:14,378 [main] INFO page_Objects.Home_page - Pop up closed
+2024-04-16 13:50:19,582 [main] INFO page_Objects.DashBoard_TC002 - Create your account is viewed and edited in dashboard
+2024-04-16 13:50:25,973 [main] INFO page_Objects.DashBoard_TC002 - Setup B2B config is viewed and edited in dashboard
+2024-04-16 13:50:35,695 [main] INFO page_Objects.DashBoard_TC002 - Configure payment collection is viewed and edited in dashboard
+2024-04-16 13:50:44,059 [main] INFO page_Objects.DashBoard_TC002 - choose plan is viewed and edited in dashboard
+2024-04-16 13:50:49,921 [main] INFO page_Objects.DashBoard_TC002 - Design website is viewed and edited in dashboard
+2024-04-16 13:51:04,898 [main] INFO page_Objects.DashBoard_TC002 - setup domain is viewed and edited in dashboard
+2024-04-16 13:51:21,045 [main] INFO page_Objects.DashBoard_TC002 - Start Tax is viewed and edited in dashboard
+2024-04-16 13:51:42,625 [main] INFO page_Objects.DashBoard_TC002 - Social media is viewed and edited in dashboard
+2024-04-16 13:52:08,602 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-16 13:52:12,826 [main] INFO page_Objects.DashBoard_TC002 - Discount button not working -check screenshot 1
+2024-04-16 13:52:31,733 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-16 13:52:45,348 [main] INFO page_Objects.Product_TC003 - Product tag is successfully added
+2024-04-16 13:53:04,957 [main] INFO page_Objects.Product_TC003 - Size Chart Added
+2024-04-16 13:53:12,185 [main] INFO page_Objects.Product_TC003 - FAQ Added
+2024-04-16 13:53:17,915 [main] INFO page_Objects.Product_TC003 - Image Tags addded
+2024-04-16 13:53:24,770 [main] INFO page_Objects.Product_TC003 - Product taxonomy added
+2024-04-16 13:53:30,436 [main] INFO page_Objects.Product_TC003 - Image uploader added
+2024-04-16 14:23:35,605 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 14:23:36,323 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 14:23:39,402 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 14:23:41,526 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 14:23:48,646 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 14:23:50,731 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 14:23:55,445 [main] INFO page_Objects.DashBoard_TC002 - Create your account is viewed and edited in dashboard
+2024-04-16 14:24:01,359 [main] INFO page_Objects.DashBoard_TC002 - Setup B2B config is viewed and edited in dashboard
+2024-04-16 14:24:10,612 [main] INFO page_Objects.DashBoard_TC002 - Configure payment collection is viewed and edited in dashboard
+2024-04-16 14:24:17,870 [main] INFO page_Objects.DashBoard_TC002 - choose plan is viewed and edited in dashboard
+2024-04-16 14:24:22,629 [main] INFO page_Objects.DashBoard_TC002 - Design website is viewed and edited in dashboard
+2024-04-16 14:24:37,365 [main] INFO page_Objects.DashBoard_TC002 - setup domain is viewed and edited in dashboard
+2024-04-16 14:24:53,348 [main] INFO page_Objects.DashBoard_TC002 - Start Tax is viewed and edited in dashboard
+2024-04-16 14:25:17,068 [main] INFO page_Objects.DashBoard_TC002 - Social media is viewed and edited in dashboard
+2024-04-16 14:25:43,117 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-16 14:25:47,319 [main] INFO page_Objects.DashBoard_TC002 - Discount button not working -check screenshot 1
+2024-04-16 14:26:06,255 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-16 14:26:19,831 [main] INFO page_Objects.Product_TC003 - Product tag is successfully added
+2024-04-16 14:26:39,420 [main] INFO page_Objects.Product_TC003 - Size Chart Added
+2024-04-16 14:26:46,601 [main] INFO page_Objects.Product_TC003 - FAQ Added
+2024-04-16 14:26:52,272 [main] INFO page_Objects.Product_TC003 - Image Tags addded
+2024-04-16 14:26:59,098 [main] INFO page_Objects.Product_TC003 - Product taxonomy added
+2024-04-16 14:27:04,802 [main] INFO page_Objects.Product_TC003 - Image uploader added
+2024-04-16 14:40:58,893 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 14:40:59,736 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 14:41:03,626 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 14:41:05,769 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 14:41:12,899 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 14:41:14,988 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 14:41:22,381 [main] INFO page_Objects.DashBoard_TC002 - Create your account is viewed and edited in dashboard
+2024-04-16 14:41:31,425 [main] INFO page_Objects.DashBoard_TC002 - Setup B2B config is viewed and edited in dashboard
+2024-04-16 14:41:41,403 [main] INFO page_Objects.DashBoard_TC002 - Configure payment collection is viewed and edited in dashboard
+2024-04-16 14:41:52,102 [main] INFO page_Objects.DashBoard_TC002 - choose plan is viewed and edited in dashboard
+2024-04-16 14:42:00,325 [main] INFO page_Objects.DashBoard_TC002 - Design website is viewed and edited in dashboard
+2024-04-16 14:42:15,111 [main] INFO page_Objects.DashBoard_TC002 - setup domain is viewed and edited in dashboard
+2024-04-16 14:42:32,199 [main] INFO page_Objects.DashBoard_TC002 - Start Tax is viewed and edited in dashboard
+2024-04-16 14:42:57,082 [main] INFO page_Objects.DashBoard_TC002 - Social media is viewed and edited in dashboard
+2024-04-16 14:43:22,906 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-16 14:43:27,111 [main] INFO page_Objects.DashBoard_TC002 - Discount button not working -check screenshot 1
+2024-04-16 14:43:45,933 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-16 14:44:33,693 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-16 15:24:08,035 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 15:24:08,614 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 15:24:11,791 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 15:24:13,918 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 15:24:21,045 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 15:24:23,136 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 15:24:28,701 [main] INFO page_Objects.DashBoard_TC002 - Create your account is viewed and edited in dashboard
+2024-04-16 15:24:36,332 [main] INFO page_Objects.DashBoard_TC002 - Setup B2B config is viewed and edited in dashboard
+2024-04-16 15:24:46,269 [main] INFO page_Objects.DashBoard_TC002 - Configure payment collection is viewed and edited in dashboard
+2024-04-16 15:26:28,706 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 15:26:29,366 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 15:26:34,489 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 15:26:36,615 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 15:26:43,729 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 15:26:45,838 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 15:26:51,050 [main] INFO page_Objects.DashBoard_TC002 - Create your account is viewed and edited in dashboard
+2024-04-16 15:26:57,131 [main] INFO page_Objects.DashBoard_TC002 - Setup B2B config is viewed and edited in dashboard
+2024-04-16 15:27:06,381 [main] INFO page_Objects.DashBoard_TC002 - Configure payment collection is viewed and edited in dashboard
+2024-04-16 15:27:13,667 [main] INFO page_Objects.DashBoard_TC002 - choose plan is viewed and edited in dashboard
+2024-04-16 15:27:19,144 [main] INFO page_Objects.DashBoard_TC002 - Design website is viewed and edited in dashboard
+2024-04-16 15:27:33,914 [main] INFO page_Objects.DashBoard_TC002 - setup domain is viewed and edited in dashboard
+2024-04-16 15:27:49,990 [main] INFO page_Objects.DashBoard_TC002 - Start Tax is viewed and edited in dashboard
+2024-04-16 15:28:11,677 [main] INFO page_Objects.DashBoard_TC002 - Social media is viewed and edited in dashboard
+2024-04-16 15:28:37,695 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-16 15:28:41,920 [main] INFO page_Objects.DashBoard_TC002 - Discount button not working -check screenshot 1
+2024-04-16 15:29:00,856 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-16 15:29:14,965 [main] INFO page_Objects.Product_TC003 - Product tag is successfully added
+2024-04-16 15:29:35,659 [main] INFO page_Objects.Product_TC003 - Size Chart Added
+2024-04-16 15:30:19,702 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-16 15:37:27,462 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 15:37:28,296 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 15:37:36,039 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 15:37:38,157 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 15:37:45,274 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 15:37:47,366 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 15:38:35,154 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-16 15:42:16,757 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 15:42:17,382 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 15:42:20,729 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 15:42:22,859 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 15:42:29,960 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 15:42:32,034 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 15:42:46,477 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-16 15:46:34,407 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 15:46:35,056 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 15:46:38,153 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 15:46:40,296 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 15:46:47,407 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 15:46:49,496 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 15:47:47,124 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 15:47:47,889 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 15:47:52,048 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 15:47:54,173 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 15:48:01,298 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 15:48:03,384 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 15:48:55,337 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-16 15:50:15,276 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 15:50:16,087 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 15:50:18,772 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 15:50:20,879 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 15:50:28,003 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 15:50:30,087 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 15:50:58,297 [main] INFO page_Objects.Product_TC003 - Product is addedd successfully
+2024-04-16 15:52:12,193 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-16 15:53:56,610 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 15:53:57,255 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 15:53:59,640 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 15:54:01,753 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 15:54:08,875 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 15:54:10,957 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 15:54:38,949 [main] INFO page_Objects.Product_TC003 - Product is addedd successfully
+2024-04-16 15:55:51,307 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-16 15:57:35,693 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 15:57:36,487 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 15:57:43,327 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 15:57:45,450 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 15:57:52,551 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 15:57:54,651 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 15:58:23,611 [main] INFO page_Objects.Product_TC003 - Add product Failed - Check screenshot 5
+2024-04-16 15:59:05,760 [main] INFO page_Objects.Product_TC003 - Product tag is successfully added
+2024-04-16 15:59:28,953 [main] INFO page_Objects.Product_TC003 - Size Chart Added
+2024-04-16 15:59:37,639 [main] INFO page_Objects.Product_TC003 - FAQ Added
+2024-04-16 15:59:44,828 [main] INFO page_Objects.Product_TC003 - Image Tags addded
+2024-04-16 15:59:53,126 [main] INFO page_Objects.Product_TC003 - Product taxonomy added
+2024-04-16 15:59:59,533 [main] INFO page_Objects.Product_TC003 - Image uploader added
+2024-04-16 16:00:13,071 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-16 16:17:03,397 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 16:17:04,017 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 16:17:07,897 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 16:17:10,025 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 16:17:17,145 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 16:17:19,226 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 16:17:48,308 [main] INFO page_Objects.Product_TC003 - Add product Failed - Check screenshot 5
+2024-04-16 16:18:27,510 [main] INFO page_Objects.Product_TC003 - Product tag is successfully added
+2024-04-16 16:18:47,131 [main] INFO page_Objects.Product_TC003 - Size Chart Added
+2024-04-16 16:18:54,832 [main] INFO page_Objects.Product_TC003 - FAQ Added
+2024-04-16 16:19:01,034 [main] INFO page_Objects.Product_TC003 - Image Tags addded
+2024-04-16 16:19:08,371 [main] INFO page_Objects.Product_TC003 - Product taxonomy added
+2024-04-16 16:19:14,062 [main] INFO page_Objects.Product_TC003 - Image uploader added
+2024-04-16 16:19:27,645 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-16 16:45:25,493 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 16:45:26,365 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 16:45:35,142 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 16:45:37,250 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 16:45:44,365 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 16:45:46,458 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 16:47:52,604 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 16:47:53,499 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 16:47:56,665 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 16:47:58,803 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 16:48:05,935 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 16:48:08,026 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 16:50:38,386 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 16:50:39,327 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 16:50:43,702 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 16:50:45,833 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 16:50:52,948 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 16:50:55,036 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 16:51:10,335 [main] INFO testCase.Login_TC001 - liveRequests is viewed
+2024-04-16 16:51:15,518 [main] INFO testCase.Login_TC001 - Abondoned is viewed
+2024-04-16 16:51:27,160 [main] INFO testCase.Login_TC001 - Confirmed Requests is viewed
+2024-04-16 16:51:38,418 [main] INFO testCase.Login_TC001 - Cancelled Requests is viewed
+2024-04-16 16:58:04,845 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 16:58:05,497 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 16:58:08,187 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 16:58:10,322 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 16:58:17,458 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 16:58:19,558 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 16:58:34,310 [main] INFO page_Objects.Quotes2 - liveRequests is viewed
+2024-04-16 16:58:38,007 [main] INFO page_Objects.Quotes2 - Abondoned is viewed
+2024-04-16 16:58:48,999 [main] INFO page_Objects.Quotes2 - Confirmed Requests is viewed
+2024-04-16 16:59:00,042 [main] INFO page_Objects.Quotes2 - Cancelled Requests is viewed
+2024-04-16 17:07:46,871 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 17:07:47,500 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 17:08:39,519 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 17:08:40,193 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 17:08:43,009 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 17:08:45,138 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 17:08:52,268 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 17:08:54,350 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 17:09:51,769 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 17:09:52,398 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 17:09:56,335 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 17:09:58,458 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 17:10:05,586 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 17:10:07,673 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 17:10:21,916 [main] INFO page_Objects.Quotes_TC005 - liveRequests is viewed
+2024-04-16 17:10:25,183 [main] INFO page_Objects.Quotes_TC005 - Abondoned is viewed
+2024-04-16 17:10:36,361 [main] INFO page_Objects.Quotes_TC005 - Confirmed Requests is viewed
+2024-04-16 17:10:47,355 [main] INFO page_Objects.Quotes_TC005 - Cancelled Requests is viewed
+2024-04-16 17:16:54,848 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 17:16:55,805 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 17:17:01,317 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 17:17:03,447 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 17:17:10,572 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 17:17:12,657 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 17:17:22,770 [main] INFO page_Objects.Orders - New order is created
+2024-04-16 17:17:28,782 [main] INFO page_Objects.Orders - Filter category is checked for all radio button
+2024-04-16 17:17:45,039 [main] INFO page_Objects.Orders - Completed orders are viewed 
+2024-04-16 17:17:58,087 [main] INFO page_Objects.Orders - Cancelled orders are viewed 
+2024-04-16 17:19:39,538 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-16 17:19:40,351 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-16 17:19:43,855 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-16 17:19:46,000 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-16 17:19:53,125 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-16 17:19:55,213 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-16 17:20:05,474 [main] INFO page_Objects.Orders_TC006 - New order is created
+2024-04-16 17:20:11,517 [main] INFO page_Objects.Orders_TC006 - Filter category is checked for all radio button
+2024-04-16 17:20:28,021 [main] INFO page_Objects.Orders_TC006 - Completed orders are viewed 
+2024-04-16 17:20:41,021 [main] INFO page_Objects.Orders_TC006 - Cancelled orders are viewed 
+2024-04-17 10:17:19,129 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 10:17:20,023 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 10:17:27,008 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 10:17:29,086 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 10:17:36,172 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 10:17:38,252 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 10:17:47,762 [main] INFO page_Objects.Orders_TC006 - New order is created
+2024-04-17 10:17:53,125 [main] INFO page_Objects.Orders_TC006 - Filter category is checked for all radio button
+2024-04-17 10:18:08,160 [main] INFO page_Objects.Orders_TC006 - Completed orders are viewed 
+2024-04-17 10:18:20,527 [main] INFO page_Objects.Orders_TC006 - Cancelled orders are viewed 
+2024-04-17 10:28:56,749 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 10:28:57,420 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 10:29:01,326 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 10:29:03,406 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 10:29:10,491 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 10:29:12,561 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 10:29:20,501 [main] INFO page_Objects.Orders_TC006 - New order is created
+2024-04-17 10:29:25,861 [main] INFO page_Objects.Orders_TC006 - Filter category is checked for all radio button
+2024-04-17 10:29:40,454 [main] INFO page_Objects.Orders_TC006 - Completed orders are viewed 
+2024-04-17 10:29:52,908 [main] INFO page_Objects.Orders_TC006 - Cancelled orders are viewed 
+2024-04-17 10:44:08,448 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 10:44:09,124 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 10:44:12,529 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 10:44:14,613 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 10:44:21,703 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 10:44:23,783 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 10:44:31,008 [main] INFO page_Objects.Orders_TC006 - New order is created
+2024-04-17 10:44:36,354 [main] INFO page_Objects.Orders_TC006 - Filter category is checked for all radio button
+2024-04-17 10:44:50,880 [main] INFO page_Objects.Orders_TC006 - Completed orders are viewed 
+2024-04-17 10:45:03,277 [main] INFO page_Objects.Orders_TC006 - Cancelled orders are viewed 
+2024-04-17 10:48:47,590 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 10:48:48,215 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 10:48:52,966 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 10:48:55,053 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 10:49:02,146 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 10:49:04,217 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 10:49:11,956 [main] INFO page_Objects.Orders_TC006 - New order is created
+2024-04-17 10:49:17,286 [main] INFO page_Objects.Orders_TC006 - Filter category is checked for all radio button
+2024-04-17 10:49:31,841 [main] INFO page_Objects.Orders_TC006 - Completed orders are viewed 
+2024-04-17 10:49:44,209 [main] INFO page_Objects.Orders_TC006 - Cancelled orders are viewed 
+2024-04-17 11:26:31,093 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 11:26:31,837 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 11:26:38,714 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 11:26:40,790 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 11:26:47,885 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 11:26:49,968 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 11:26:56,454 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 11 and  verify search key 
+2024-04-17 11:26:56,455 [main] INFO testCase.Login_TC001 - Pages are viewed and verfified successfully
+2024-04-17 11:30:17,696 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 11:30:18,632 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 11:30:26,641 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 11:30:28,727 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 11:30:35,817 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 11:30:37,898 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 11:31:21,567 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 11:33:10,007 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 11:33:10,698 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 11:33:17,594 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 11:33:19,685 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 11:33:26,784 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 11:33:28,869 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 11:34:14,671 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 11:39:45,474 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 11:39:46,104 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 11:39:49,171 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 11:39:51,260 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 11:39:58,350 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 11:40:00,424 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 11:40:43,245 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 11:42:07,350 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 11:42:07,940 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 11:42:14,465 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 11:42:16,559 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 11:42:23,658 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 11:42:25,740 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 11:43:07,917 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 11:43:50,592 [main] INFO testCase.Login_TC001 - Add Menu added in Header Navigation
+2024-04-17 11:45:07,399 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 11:45:08,485 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 11:45:11,377 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 11:45:13,467 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 11:45:20,569 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 11:45:22,645 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 11:46:06,396 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 11:48:19,222 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 11:48:19,795 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 11:48:33,614 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 11:48:35,698 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 11:48:42,793 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 11:48:44,876 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 11:49:27,072 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 11:49:39,270 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 11:54:12,791 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 11:54:13,377 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 11:54:19,239 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 11:54:21,327 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 11:54:28,427 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 11:54:30,502 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 11:55:16,380 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 12:00:07,134 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:00:07,934 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:00:10,119 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:00:12,199 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:00:19,289 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:00:21,371 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:01:03,522 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 12:01:15,625 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:03:29,530 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:03:30,391 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:03:33,766 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:03:35,865 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:03:42,954 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:03:45,021 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:04:27,707 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 12:04:40,429 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:08:50,732 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:08:51,305 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:08:54,919 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:08:57,034 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:09:04,125 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:09:06,212 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:09:48,908 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 12:10:01,346 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:13:51,288 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:13:51,909 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:13:53,926 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:13:56,004 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:14:03,094 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:14:05,171 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:14:48,630 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 12:15:01,119 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:21:22,602 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:21:23,370 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:21:27,087 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:21:29,164 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:21:36,261 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:21:38,340 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:22:21,198 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 12:22:34,257 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:29:28,392 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:29:29,000 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:29:33,157 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:29:35,250 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:29:42,340 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:29:44,421 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:30:29,740 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 12:32:20,275 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:32:20,989 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:32:26,527 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:32:28,617 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:32:35,717 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:32:37,845 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:33:20,543 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 12:33:33,508 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:37:14,767 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:37:15,812 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:37:18,113 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:37:20,242 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:37:27,383 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:37:29,476 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:38:12,239 [main] INFO testCase.Login_TC001 - Add segment added in Website Home Page
+2024-04-17 12:38:24,824 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:39:30,890 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:40:11,629 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:40:12,281 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:40:18,201 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:40:20,333 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:40:27,468 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:41:40,989 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:41:41,796 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:41:47,127 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:41:49,282 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:41:56,418 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:41:58,508 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:42:10,005 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 12:42:20,745 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:48:03,574 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:48:04,232 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:48:07,252 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:48:09,416 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:48:16,582 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:48:18,681 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:48:30,585 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 12:48:41,458 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:50:47,671 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:50:48,453 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:50:53,758 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:50:55,936 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:51:03,077 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:51:05,166 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:51:16,946 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 12:51:27,807 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:54:05,204 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 12:54:05,895 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 12:54:12,312 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 12:54:14,496 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 12:54:21,617 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 12:54:23,717 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 12:54:35,285 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 12:54:45,737 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 12:55:09,348 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-17 12:55:13,593 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 11 and  verify search key 
+2024-04-17 13:46:17,371 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 13:46:18,320 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 13:46:24,764 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 13:46:26,896 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 13:46:34,020 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 13:46:36,119 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 13:46:49,350 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 13:47:12,110 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 13:47:12,838 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 13:47:16,225 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 13:47:18,390 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 13:47:25,515 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 13:47:27,608 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 13:47:40,583 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 13:49:12,246 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 13:49:13,359 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 13:49:18,506 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 13:49:20,662 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 13:49:27,825 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 13:49:29,938 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 13:49:41,847 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 13:49:52,806 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 13:51:10,401 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 13:51:11,048 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 13:51:18,228 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 13:51:20,417 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 13:51:27,544 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 13:51:29,649 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 13:51:43,079 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 13:54:10,468 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 13:54:11,106 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 13:54:19,939 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 13:54:22,054 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 13:54:29,195 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 13:54:31,298 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 13:54:46,802 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 13:56:09,329 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 13:56:09,953 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 13:56:13,974 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 13:56:16,142 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 13:56:23,281 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 13:56:25,377 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 13:56:39,297 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 13:57:26,805 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 13:57:27,406 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 13:57:38,223 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 13:57:40,407 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 13:57:47,547 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 13:57:49,652 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 13:58:02,067 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 13:58:12,589 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 13:58:30,011 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-17 13:58:34,762 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 11 and  verify search key 
+2024-04-17 14:03:54,308 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:03:55,447 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:03:57,989 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:04:00,146 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:04:07,294 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:04:09,389 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:04:21,724 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 14:04:32,110 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 14:04:47,114 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-17 14:04:51,743 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 11 and  verify search key 
+2024-04-17 14:09:15,470 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:09:16,134 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:09:21,576 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:09:23,706 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:09:30,816 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:09:32,934 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:09:46,160 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 14:09:57,301 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 14:10:14,853 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-17 14:10:22,189 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 11 and  verify search key 
+2024-04-17 14:15:19,318 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:15:19,980 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:15:24,933 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:15:27,127 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:15:34,280 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:15:36,398 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:15:51,552 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 14:16:02,489 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 14:16:23,139 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-17 14:16:29,400 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 11 and  verify search key 
+2024-04-17 14:17:45,134 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:17:45,857 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:17:48,475 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:17:50,727 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:17:57,895 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:18:00,008 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:18:12,735 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 14:18:23,330 [main] INFO testCase.Login_TC001 - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 14:18:40,046 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-17 14:18:43,928 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 11 and  verify search key 
+2024-04-17 14:19:02,285 [main] INFO testCase.Login_TC001 - Pages are viewed and verfified successfully
+2024-04-17 14:21:33,719 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:21:34,397 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:21:39,895 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:21:42,004 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:21:49,157 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:21:51,259 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:22:04,097 [main] INFO page_Objects.Website - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 14:23:33,786 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:23:59,218 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:23:59,923 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:24:05,200 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:24:07,497 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:24:14,662 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:24:16,800 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:24:30,864 [main] INFO page_Objects.Website - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-17 14:24:42,574 [main] INFO page_Objects.Website - Modal is still open.Check screenshot 7 verify Header Navigation
+2024-04-17 14:24:58,002 [main] INFO page_Objects.Website - Not updated.Check screenshot 10 verify  Newsletter & Popup 
+2024-04-17 14:25:05,732 [main] INFO page_Objects.Website - Not updated.Check screenshot 11 and  verify search key 
+2024-04-17 14:25:25,139 [main] INFO testCase.Login_TC001 - Pages are viewed and verfified successfully
+2024-04-17 14:28:54,318 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:28:54,992 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:28:58,168 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:29:00,438 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:29:07,625 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:29:09,746 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:30:41,556 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:30:42,490 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:30:45,396 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:30:47,565 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:30:54,735 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:30:56,865 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:32:11,578 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:32:12,261 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:32:15,852 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:32:18,011 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:32:25,166 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:32:27,282 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:34:15,240 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:34:15,890 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:34:18,420 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:34:20,685 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:34:27,864 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:34:29,991 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:39:23,184 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:39:23,831 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:39:29,814 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:39:32,085 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:39:39,252 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:39:41,363 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:47:06,899 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:47:25,794 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:47:26,439 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:47:29,055 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:47:31,248 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:47:38,395 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:47:40,509 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 14:49:14,534 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 14:49:15,473 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 14:49:22,160 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 14:49:24,432 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 14:49:31,573 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 14:49:33,690 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:00:00,936 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:00:01,777 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:00:07,293 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:00:09,614 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:00:16,762 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:00:18,886 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:02:22,394 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:02:23,086 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:02:29,578 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:02:31,768 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:02:38,929 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:02:41,055 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:12:24,585 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:12:25,220 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:12:29,460 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:12:31,693 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:12:38,841 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:12:40,968 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:18:36,256 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:18:36,992 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:18:41,648 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:18:43,857 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:18:51,015 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:18:53,137 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:19:15,388 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 12 and  verify Store Apps
+2024-04-17 15:34:57,375 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:34:58,236 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:35:01,221 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:35:03,403 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:35:10,581 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:35:12,703 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:35:33,914 [main] INFO testCase.Login_TC001 - Not updated.Check screenshot 12 and  verify Store Apps
+2024-04-17 15:40:32,033 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:40:32,743 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:40:36,047 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:40:38,327 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:40:45,514 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:40:47,645 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:41:08,940 [main] INFO page_Objects.Store_Apps_TC008 - Not updated.Check screenshot 12 and  verify Store Apps
+2024-04-17 15:42:50,101 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:42:50,762 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:42:54,920 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:42:57,172 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:43:04,347 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:43:06,464 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:46:54,456 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:46:55,150 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:46:57,376 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:46:59,660 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:47:06,817 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:47:08,937 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:47:29,063 [main] INFO page_Objects.Store_Apps_TC008 - Not updated.Check screenshot 17 and  verify Store Apps
+2024-04-17 15:50:07,195 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:50:07,853 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:50:16,283 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:50:18,430 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:50:25,587 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:50:27,703 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:50:50,495 [main] INFO page_Objects.Store_Apps_TC008 - Not updated.Check screenshot 17 and  verify Store Apps
+2024-04-17 15:56:33,253 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 15:56:34,263 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 15:56:40,064 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 15:56:42,345 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 15:56:49,491 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 15:56:51,620 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 15:57:16,504 [main] INFO page_Objects.Store_Apps_TC008 - Not updated.Check screenshot 17 and  verify Store Apps
+2024-04-17 17:26:31,350 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 17:26:31,933 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 17:26:39,547 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 17:26:41,684 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 17:26:48,827 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 17:26:50,918 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 17:27:41,711 [main] INFO testCase.Login_TC2 - URL is Entered in Chrome
+2024-04-17 17:27:42,321 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 17:27:44,625 [main] INFO testCase.Login_TC2 - Login link is clicked
+2024-04-17 17:27:45,312 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 17:27:45,312 [main] INFO testCase.Login_TC2 - Email-id is entered
+2024-04-17 17:27:47,463 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 17:27:47,463 [main] INFO testCase.Login_TC2 - Password is entered
+2024-04-17 17:27:54,571 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 17:27:56,655 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 17:27:56,656 [main] INFO testCase.Login_TC2 - Pop up closed
+2024-04-17 17:54:14,645 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 17:54:15,369 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 17:54:19,441 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 17:54:21,649 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 17:54:28,783 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 17:54:30,880 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 18:00:22,660 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-17 18:00:23,496 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-17 18:00:25,844 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-17 18:00:28,064 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-17 18:00:35,219 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-17 18:00:37,328 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-17 18:01:27,082 [main] INFO testCase.Login_TC001 -  Opening hours  updated successfully
+2024-04-17 18:02:05,743 [main] INFO testCase.Login_TC001 -  Mail configuration submitted successfully
+2024-04-17 18:02:57,135 [main] INFO testCase.Login_TC001 -  Store Management updated successfully 
+2024-04-17 18:03:43,853 [main] INFO testCase.Login_TC001 - checkout setttings updated successfully 
+2024-04-18 10:18:17,327 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-18 10:18:18,217 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-18 10:18:25,819 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-18 10:18:27,895 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-18 10:18:35,019 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-18 10:18:37,119 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-18 10:21:34,317 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-18 10:21:34,926 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-18 10:21:40,156 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-18 10:21:42,291 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-18 10:21:49,391 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-18 10:21:51,493 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-18 10:23:21,276 [main] INFO testCase.Login_TC001 - URL is Entered in Chrome
+2024-04-18 10:23:22,129 [main] INFO page_Objects.HomePage_TC_001 - Login link is clicked
+2024-04-18 10:23:30,299 [main] INFO page_Objects.HomePage_TC_001 - Email-id is entered
+2024-04-18 10:23:32,415 [main] INFO page_Objects.HomePage_TC_001 - Password is entered
+2024-04-18 10:23:39,533 [main] INFO page_Objects.HomePage_TC_001 - User is succesfully logged in
+2024-04-18 10:23:41,621 [main] INFO page_Objects.HomePage_TC_001 - Pop up closed
+2024-04-18 10:23:47,783 [main] INFO page_Objects.DashBoard_TC002 - Create your account is viewed and edited in dashboard
+2024-04-18 10:23:55,647 [main] INFO page_Objects.DashBoard_TC002 - Setup B2B config is viewed and edited in dashboard
+2024-04-18 10:24:06,159 [main] INFO page_Objects.DashBoard_TC002 - Configure payment collection is viewed and edited in dashboard
+2024-04-18 10:24:14,910 [main] INFO page_Objects.DashBoard_TC002 - choose plan is viewed and edited in dashboard
+2024-04-18 10:24:23,367 [main] INFO page_Objects.DashBoard_TC002 - Design website is viewed and edited in dashboard
+2024-04-18 10:24:38,146 [main] INFO page_Objects.DashBoard_TC002 - setup domain is viewed and edited in dashboard
+2024-04-18 10:24:54,513 [main] INFO page_Objects.DashBoard_TC002 - Start Tax is viewed and edited in dashboard
+2024-04-18 10:25:16,506 [main] INFO page_Objects.DashBoard_TC002 - Social media is viewed and edited in dashboard
+2024-04-18 10:25:42,760 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-18 10:25:46,965 [main] INFO page_Objects.DashBoard_TC002 - Discount button not working -check screenshot 1
+2024-04-18 10:26:05,927 [main] INFO page_Objects.DashBoard_TC002 - StoreSEO is viewed and edited in dashboard
+2024-04-18 10:26:35,800 [main] INFO page_Objects.Product_TC003 - Add product Failed - Check screenshot 5
+2024-04-18 10:27:17,676 [main] INFO page_Objects.Enquiries_TC004 - Enquiries filter is successfully applied
+2024-04-18 10:27:33,143 [main] INFO page_Objects.Quotes_TC005 - liveRequests is viewed
+2024-04-18 10:27:37,234 [main] INFO page_Objects.Quotes_TC005 - Abondoned is viewed
+2024-04-18 10:27:48,107 [main] INFO page_Objects.Quotes_TC005 - Confirmed Requests is viewed
+2024-04-18 10:27:58,941 [main] INFO page_Objects.Quotes_TC005 - Cancelled Requests is viewed
+2024-04-18 10:28:06,048 [main] INFO page_Objects.Orders_TC006 - New order is created
+2024-04-18 10:28:11,559 [main] INFO page_Objects.Orders_TC006 - Filter category is checked for all radio button
+2024-04-18 10:28:26,698 [main] INFO page_Objects.Orders_TC006 - Completed orders are viewed 
+2024-04-18 10:28:39,701 [main] INFO page_Objects.Orders_TC006 - Cancelled orders are viewed 
+2024-04-18 10:29:24,638 [main] INFO page_Objects.Website_TC007 - Modal is still open.Check screenshot 6 verify Header Navigation
+2024-04-18 10:30:18,987 [main] INFO page_Objects.Store_Apps_TC008 - Store Apps  updated successfully
+2024-04-18 10:31:04,747 [main] INFO testCase.Login_TC001 - Add role in the select drop down

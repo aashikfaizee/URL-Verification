@@ -5,11 +5,17 @@ import java.awt.Robot;
 import java.awt.Toolkit;
 import java.awt.datatransfer.StringSelection;
 import java.awt.event.KeyEvent;
+import java.io.File;
+import java.io.IOException;
 import java.time.Duration;
 import java.util.List;
 
+import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -17,11 +23,13 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class Store_Apps extends BaseClass{
+public class Store_Apps_TC008 extends BaseClass{
 
 	WebDriver driver;
 
-	public   Store_Apps (WebDriver ldriver) {
+	Logger log= Logger.getLogger(this.getClass());
+
+	public   Store_Apps_TC008 (WebDriver ldriver) {
 
 		driver=ldriver;
 
@@ -69,7 +77,7 @@ public class Store_Apps extends BaseClass{
 	String date2="15";
 
 
-	public void blog() throws InterruptedException, AWTException {
+	public void blog() throws InterruptedException, AWTException, IOException {
 
 		clickstore.click();
 		Thread.sleep(1000);
@@ -83,7 +91,7 @@ public class Store_Apps extends BaseClass{
 		upload_img.click();
 		Thread.sleep(1000);
 
-		String img="Ride.png";
+		String img="Ride.jpg";
 
 
 		StringSelection selection = new StringSelection(img);
@@ -147,18 +155,43 @@ public class Store_Apps extends BaseClass{
 		desc.sendKeys(" Welcome to our blog dedicated to all things testing! Whether you're a seasoned QA professional or just dipping your toes into the realm of quality assurance, this blog is your go-to destination for insightful discussions, practical tips, and cutting-edge techniques in software testing.");
 		Thread.sleep(1000);
 
-//		JavascriptExecutor js = (JavascriptExecutor) driver;
-//		js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
-//		
-		JavascriptExecutor js1= (JavascriptExecutor)driver;
-		js1.executeScript("argumtents[0].click();", Addbtn);
-		
-		//WebDriverWait wt= new WebDriverWait(driver,Duration.ofSeconds(10));
-		//wt.until(ExpectedConditions.elementToBeClickable(Addbtn));
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
 
-		
+		//JavascriptExecutor js1= (JavascriptExecutor)driver;
+		//js1.executeScript("argumtents[0].click();", Addbtn);
 
+
+		Addbtn.click();
+		Thread.sleep(3000);
 		
+		Addbtn.click();
+		Thread.sleep(3000);
+
+		boolean isModalClosed = driver.findElements(By.xpath("/html/body/app-root/app-store-layout/div[1]/div[3]/app-blog-event/div/form/div[4]/div/button[2]/span[1]")).isEmpty();
+
+		if (isModalClosed) {
+
+			System.out.println(" Store Apps  updated successfully");
+
+			log.info("Store Apps  updated successfully");
+
+
+
+		} else {
+
+			System.out.println("Not upated. Pls check Store Apps ");
+
+			TakesScreenshot ts= (TakesScreenshot)driver;
+
+			File f= ts.getScreenshotAs(OutputType.FILE);
+
+			FileUtils.copyFile(f,new File("C:/Users/white/git/Orbit/capturesscreenshot17.png"));
+
+			log.info("Not updated.Check screenshot 17 and  verify Store Apps");
+
+		}
+
 
 
 	}

@@ -2,6 +2,7 @@ package page_Objects;
 
 import java.util.List;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -11,6 +12,8 @@ import org.openqa.selenium.support.PageFactory;
 public class Marketing_Tools extends BaseClass {
 
 	WebDriver driver;
+	Logger log= Logger.getLogger(this.getClass());
+
 
 	public Marketing_Tools (WebDriver ldriver ) {
 

@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.IOException;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
 import org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -19,10 +20,13 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
-public class Dashboard2 extends BaseClass {
+public class DashBoard_TC002   {
 
 	WebDriver driver;
-	public Dashboard2(WebDriver ldriver) {
+
+	Logger log= Logger.getLogger(this.getClass());
+	
+	public DashBoard_TC002(WebDriver ldriver) {
 
 		driver=ldriver;
 		PageFactory.initElements(ldriver, this);
@@ -271,10 +275,6 @@ public class Dashboard2 extends BaseClass {
 
 		//Addbtn.click();
 
-		Dashboard.click();
-		Thread.sleep(1000);
-
-
 		creataccountview.click();
 
 		driver.findElement(By.xpath("//span[normalize-space()='edit']")).click();
@@ -370,26 +370,26 @@ public class Dashboard2 extends BaseClass {
 		Thread.sleep(1000);
 		searchhomelayout.sendKeys("all");
 
-		editlayout.click();
-		driver.findElement(By.xpath("/html/body/app-root/app-store-layout/div[1]/div[3]/app-home-layout/div/div[3]/div[1]/div/div[2]/div[2]/div/div/div/button[1]")).click();
-		Thread.sleep(1000);
-
-		layouttitle.clear();
-		Thread.sleep(1000);
-
-		layouttitle.sendKeys("All in All");
-		Thread.sleep(1000);
-
-		Select linkcat=new Select(linkcatalog);
-		linkcat.selectByValue("all_products");
-		Thread.sleep(1000);
-
-		updatelayout.click();
-		Thread.sleep(1000);
-
-		Select laytype=new Select(layouttype);
-		laytype.selectByVisibleText("Slider");
-		Thread.sleep(1000);
+//		editlayout.click();
+//		driver.findElement(By.xpath("/html/body/app-root/app-store-layout/div[1]/div[3]/app-home-layout/div/div[3]/div[1]/div/div[2]/div[2]/div/div/div/button[1]")).click();
+//		Thread.sleep(1000);
+//
+//		layouttitle.clear();
+//		Thread.sleep(1000);
+//
+//		layouttitle.sendKeys("All in All");
+//		Thread.sleep(1000);
+//
+//		Select linkcat=new Select(linkcatalog);
+//		linkcat.selectByValue("all_products");
+//		Thread.sleep(1000);
+//
+//		updatelayout.click();
+//		Thread.sleep(1000);
+//
+//		Select laytype=new Select(layouttype);
+//		laytype.selectByVisibleText("Slider");
+//		Thread.sleep(1000);
 
 		driver.navigate().back();
 		Thread.sleep(1000);

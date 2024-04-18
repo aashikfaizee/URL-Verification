@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
@@ -25,11 +26,13 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.asserts.SoftAssert;
 
-public class Website extends BaseClass{
+public class Website_TC007 extends BaseClass{
 
 	WebDriver driver;
+	
+	Logger log= Logger.getLogger(this.getClass());
 
-	public  Website(WebDriver ldriver) {
+	public  Website_TC007(WebDriver ldriver) {
 
 		driver=ldriver;
 
@@ -77,7 +80,7 @@ public class Website extends BaseClass{
 	WebElement Addbtn;
 	//button[normalize-space()='Add']
 
-	@FindBy(xpath="//button[normalize-space()='Add']")
+	@FindBy(xpath="(//*[text()='add'])[1]")
 	WebElement addbutton;
 
 	@FindBy(xpath="/html/body/app-root/app-store-layout/div[1]/div[3]/app-home-layout/div/div[3]/div[1]/div/div[8]/div[2]/div/div/button")
@@ -147,6 +150,9 @@ public class Website extends BaseClass{
 	@FindBy(xpath="//button[normalize-space()='Update']")
 	WebElement update1;
 
+	@FindBy(xpath="//*[text()=' Update ']")
+	WebElement updates;
+
 	@FindBy(xpath="//a[normalize-space()='Chat Configuration']")
 	WebElement chatconfig_click;
 
@@ -213,6 +219,8 @@ public class Website extends BaseClass{
 	@FindBy(xpath="/html[1]/body[1]/ngb-modal-window[1]/div[1]/div[1]/form[1]/div[1]/div[1]/h4[1]/span[1]")
 	WebElement back_arrow;
 
+	@FindBy(xpath="//input[@name='link']")
+	WebElement urltext;
 
 	String month="April";
 	String Year="2024";
@@ -222,7 +230,6 @@ public class Website extends BaseClass{
 	String date2="15";
 
 	public void websiteclick() throws InterruptedException, IOException {
-
 
 		website_Click.click();
 		Thread.sleep(1000);
@@ -262,7 +269,7 @@ public class Website extends BaseClass{
 
 
 		Addbtn.click(); 
-		Thread.sleep(3000);
+		Thread.sleep(2000);
 
 
 		//WebDriverWait wait= new WebDriverWait(driver,Duration.ofSeconds(10));
@@ -358,10 +365,6 @@ public class Website extends BaseClass{
 
 	public void Announcement_bar() throws InterruptedException, IOException{
 
-
-		website_Click.click();
-		Thread.sleep(1000);
-
 		announcement_bar.click();
 		Thread.sleep(1000);
 
@@ -379,11 +382,8 @@ public class Website extends BaseClass{
 		Thread.sleep(1000);
 
 
-
 		enable_time.click();
 		Thread.sleep(1000);
-
-
 
 
 		datepick1.click();
@@ -433,7 +433,7 @@ public class Website extends BaseClass{
 			Thread.sleep(1000);
 		}
 		else {
-			
+
 			System.out.println("Already selected");
 		}
 
@@ -462,10 +462,10 @@ public class Website extends BaseClass{
 		cat.selectByVisibleText("Hello");
 		Thread.sleep(1000);
 
-		update.click();
+		updates.click();
 		Thread.sleep(2000);
 
-		boolean isModalClosed = driver.findElement(By.xpath("//*[text()=' Update ']")).isSelected();
+		boolean isModalClosed = driver.findElement(By.xpath("//*[text()='Update']")).isSelected();
 
 		if (isModalClosed) {
 
@@ -486,6 +486,8 @@ public class Website extends BaseClass{
 			FileUtils.copyFile(f,new File("C:/Users/white/git/Orbit/capturesscreenshot08.png"));
 
 			log.info("Not updated.Check screenshot 8 verify Announcement bar");
+			
+			driver.navigate().refresh();
 
 		}
 
@@ -494,11 +496,14 @@ public class Website extends BaseClass{
 
 	}
 
-	public void  chat_config() throws InterruptedException {
+	public void  chat_config() throws InterruptedException, IOException {
+		
+		
+		WebDriverWait wait= new WebDriverWait(driver,Duration.ofSeconds(20));
+		wait.until(ExpectedConditions.elementToBeClickable(chatconfig_click));
 
-
-		chatconfig_click.click();
-		Thread.sleep(1000);
+		//chatconfig_click.click();
+		//Thread.sleep(1000);
 
 		displaycheck.click();
 		Thread.sleep(1000);
@@ -525,15 +530,41 @@ public class Website extends BaseClass{
 		wassup_msg.sendKeys("Your store Automation Testing");
 		Thread.sleep(1000);
 
-		update.click();
+		updates.click();
 		Thread.sleep(1000);
+
+		boolean isModalClosed = driver.findElement(By.xpath("//*[text()=' Update ']")).isSelected();
+
+		if (isModalClosed) {
+
+			System.out.println("chat config updated successfully");
+
+			log.info("Chat config updated successfully");
+
+
+
+		} else {
+
+			System.out.println("Not upated. Pls check chat config");
+
+			TakesScreenshot ts= (TakesScreenshot)driver;
+
+			File f= ts.getScreenshotAs(OutputType.FILE);
+
+			FileUtils.copyFile(f,new File("C:/Users/white/git/Orbit/capturesscreenshot09.png"));
+
+			log.info("Not updated.Check screenshot 9 verify chat config");
+
+		}
+
+
 
 
 
 
 	}
 
-	public void newsletter() throws InterruptedException, AWTException {
+	public void newsletter() throws InterruptedException, AWTException, IOException {
 
 		clickNews.click();
 		Thread.sleep(1000);
@@ -544,7 +575,7 @@ public class Website extends BaseClass{
 		upload_img.click();
 		Thread.sleep(1000);
 
-		String img="Ride.png";
+		String img="Ride.jpg";
 
 
 		StringSelection selection = new StringSelection(img);
@@ -584,13 +615,43 @@ public class Website extends BaseClass{
 
 		}
 
-		update.click();
-		Thread.sleep(1000);
+
+		urltext.sendKeys("www.google.com");
+		Thread.sleep(2000);;
+
+		updates.click();
+
+
+
+		boolean isModalClosed = driver.findElement(By.xpath("//*[text()=' Update ']")).isSelected();
+
+		if (isModalClosed) {
+
+			System.out.println(" Newsletter & Popup  updated successfully");
+
+			log.info(" Newsletter & Popup  updated successfully");
+
+
+
+		} else {
+
+			System.out.println("Not upated. Pls check  Newsletter & Popup ");
+
+			TakesScreenshot ts= (TakesScreenshot)driver;
+
+			File f= ts.getScreenshotAs(OutputType.FILE);
+
+			FileUtils.copyFile(f,new File("C:/Users/white/git/Orbit/capturesscreenshot10.png"));
+
+			log.info("Not updated.Check screenshot 10 verify  Newsletter & Popup ");
+
+		}
 
 
 	}
 
-	public void search_key() throws InterruptedException, AWTException {
+	public void search_key() throws InterruptedException, AWTException, IOException {
+
 
 		Clicksearch.click();
 		Thread.sleep(1000);
@@ -598,9 +659,33 @@ public class Website extends BaseClass{
 		//Enter_opn.sendKeys("Test");		
 		//Thread.sleep(1000);
 
-
-		update.click();
+		updates.click();
 		Thread.sleep(1000);
+
+
+		boolean isModalClosed = driver.findElement(By.xpath("//*[text()=' Update ']")).isSelected();
+
+		if (isModalClosed) {
+
+			System.out.println(" search key  updated successfully");
+
+			log.info(" search key  updated successfully");
+
+
+
+		} else {
+
+			System.out.println("Not upated. Pls check search key ");
+
+			TakesScreenshot ts= (TakesScreenshot)driver;
+
+			File f= ts.getScreenshotAs(OutputType.FILE);
+
+			FileUtils.copyFile(f,new File("C:/Users/white/git/Orbit/capturesscreenshot11.png"));
+
+			log.info("Not updated.Check screenshot 11 and  verify search key ");
+
+		}
 
 
 
@@ -635,10 +720,10 @@ public class Website extends BaseClass{
 		update1.click();
 		Thread.sleep(1000);
 
-		close_setting.click();
-		Thread.sleep(1000);
+		//close_setting.click();
+		//Thread.sleep(1000);
 
-		add_loc.click();
+		addbutton.click();
 		Thread.sleep(1000);
 
 		Nametxt.sendKeys("White Mastery");
@@ -653,7 +738,7 @@ public class Website extends BaseClass{
 		map_url.sendKeys("https://maps.app.goo.gl/4WkNHCWh2fysMpnm7");
 		Thread.sleep(1000);
 
-		addbutton.click();
+		addbtn.click();
 		Thread.sleep(1000);
 
 
